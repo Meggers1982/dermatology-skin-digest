@@ -275,7 +275,7 @@ def fetch_doi_content(doi: str) -> str:
         headers = {
             "User-Agent": (
                 "Mozilla/5.0 (compatible; research-digest-bot/1.0; "
-                "+https://github.com/Meggers1982/aging-longevity-digest)"
+                "+https://github.com/Meggers1982/dermatology-skin-digest)"
             ),
             "Accept": "text/html,application/xhtml+xml",
         }
@@ -400,7 +400,7 @@ Rules for content:
 - Note skin phototype or ethnicity of study population when reported — findings about UV protection, pigmentation, and photoaging may not generalize across all skin tones
 - Flag inadequate representation of darker skin tones explicitly — this is a well-documented gap in dermatology research and a critical caveat for inclusive coverage
 - Distinguish between cosmetic and medical/clinical findings — a study on topical vitamin C's effect on skin brightness is different from one on acne treatment
-- Animal and cell studies are not automatically excluded — mechanistic skin science can be newsworthy — but must be clearly labeled and scored lower
+- Animal-only and cell-only studies should already be excluded by screening; if any slip through, clearly label and score lower
 - Never use: breakthrough, cure, reverses, eliminates, proven to prevent
 - Always use: suggests, found that, associated with, early evidence indicates
 - No causal language for observational studies
