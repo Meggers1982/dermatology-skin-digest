@@ -1,8 +1,338 @@
 {
-  "last_updated": "2026-07-09T13:44:00.936453+00:00",
-  "total_studies": 71,
-  "new_this_run": 13,
+  "last_updated": "2026-07-10T13:06:17.155793+00:00",
+  "total_studies": 79,
+  "new_this_run": 8,
   "studies": [
+    {
+      "pmid": "42425321",
+      "headline": "A dangerous blistering skin disease often goes undiagnosed \u2014 a new predictive tool could catch it earlier",
+      "journal": "Journal of the American Academy of Dermatology",
+      "pubdate": "2026 Jul 9",
+      "doi": "10.1016/j.jaad.2026.07.018",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers in China conducted a 10-year large-scale retrospective case-control study to identify clinical predictors of non-bullous pemphigoid \u2014 a form of the autoimmune blistering disease that lacks the hallmark blisters and is notoriously difficult to diagnose. Using their dataset, they developed a novel diagnostic nomogram intended to aid clinicians in earlier identification. The study found specific clinical features that reliably distinguished non-bullous pemphigoid from mimicking conditions.",
+      "why_it_matters": "Non-bullous pemphigoid is frequently misdiagnosed because it lacks the defining blisters, so a validated clinical prediction tool could shorten the diagnostic odyssey for patients with unexplained, treatment-resistant itch or skin changes.",
+      "caveats": "observational design, single-center, retrospective design, limited skin tone diversity in sample, finding is tied to a single non-US region's healthcare system",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Rare disease, single-center China cohort, limited generalizability; no consumer-facing skincare hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "This Blistering Skin Disease Is Frequently Missed \u2014 Researchers Now Have a Tool to Spot It Sooner",
+          "hook": "Non-bullous pemphigoid can look like stubborn eczema or unexplained itching \u2014 and that's exactly why it's so often misdiagnosed.",
+          "pitch_angle": "A decade of patient data from a Chinese dermatology hospital has yielded a clinical prediction model that could help doctors catch a tricky autoimmune skin disease before it becomes severe. The finding is primarily relevant to clinicians, but the broader story \u2014 the diagnostic gap in non-blistering presentations of a blistering disease \u2014 has patient-advocacy resonance."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42426947",
+      "headline": "L'Or\u00e9al built an algorithm that measures hair volume as accurately as you perceive it \u2014 and it actually works",
+      "journal": "International Journal of Cosmetic Science",
+      "pubdate": "2026 Jul 9",
+      "doi": "10.1111/ics.70126",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "L'Or\u00e9al researchers developed an automated image-analysis system to objectively quantify 3D hair volume on human heads across curl types I\u2013III, calibrated against consumer perception data from 163 women and 90 volunteer panelists. The tool was validated in a 40-woman study (20 seeking volume increase, 20 seeking volume reduction), where the algorithms significantly predicted product performance (p\u22640.022). Strong correlations were found between instrumental measurements and both expert sensory ratings and consumer self-assessments, with root-lift correlations of 0.65\u20130.88.",
+      "why_it_matters": "An objective, consumer-aligned tool for measuring hair volume could raise the bar for how haircare brands substantiate product efficacy claims, making it harder to sell products that don't actually deliver visible results.",
+      "caveats": "small sample (N<100), industry funding [L'Or\u00e9al], limited to curl types I\u2013III, single-center",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Industry-funded haircare tool, consumer-relevant, but small validation sample and funder conflict.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "L'Or\u00e9al Just Created a Tool That Measures Hair Volume the Same Way Your Eyes Do",
+          "hook": "For the first time, researchers have built an algorithm that quantifies hair volume the way consumers actually perceive it \u2014 not just fiber by fiber under a microscope.",
+          "pitch_angle": "The new image-analysis system correlates strongly with how real people assess their own hair volume, meaning brands could use it to rigorously test whether volumizing products actually deliver. It's a potential shift in how haircare efficacy gets measured \u2014 and eventually, marketed."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42418210",
+      "headline": "Most dermatology patients don't read their own clinical notes online \u2014 and who does may surprise you",
+      "journal": "JAMA Dermatology",
+      "pubdate": "2026 Jul 8",
+      "doi": "10.1001/jamadermatol.2026.2072",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "This cohort study from Brigham and Women's Hospital examined the likelihood of and factors associated with dermatology patients viewing their clinical notes via an electronic patient portal within four weeks of a dermatology encounter. The study assessed patient engagement patterns across a dermatology patient population at a major academic medical center. The abstract is a plain-language summary only and does not report specific N, findings, or effect sizes.",
+      "why_it_matters": "Understanding who reads \u2014 and who skips \u2014 their dermatology visit notes could shape how dermatologists communicate diagnoses, treatment plans, and skin cancer findings to patients.",
+      "caveats": "single-center, observational design",
+      "fact_check_note": "The abstract provided is a plain-language summary only and does not include sample size, specific findings, or effect direction; no detailed claims could be verified against primary data.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Health communication study; limited direct skin science or skincare ingredient angle.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Are You Actually Reading Your Dermatologist's Notes? Most People Aren't",
+          "hook": "Since federal open-notes rules gave patients access to their own medical records, a new study suggests most dermatology patients still aren't reading them.",
+          "pitch_angle": "With skin cancer diagnoses, complex eczema regimens, and cosmetic procedure aftercare all documented in clinical notes, low patient engagement with portal records could mean missed information about their own skin health. Identifying who engages \u2014 and who doesn't \u2014 may help dermatology practices better reach patients who need follow-up most."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42412045",
+      "headline": "Germany issues its first clinical guideline for a rare sweat gland cancer that's easily mistaken for breast cancer metastasis",
+      "journal": "Journal of the German Society of Dermatology (JDDG)",
+      "pubdate": "2026 Jul 7",
+      "doi": "10.1111/ddg.70107x",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "German dermatology and oncology specialists published the first S1 clinical guideline for sweat gland carcinomas, a group of more than 20 rare skin cancers arising from eccrine or apocrine glands. The guideline covers diagnosis (histopathological excisional biopsy), surgical treatment (microscopically controlled excision), adjuvant radiotherapy for high-risk cases, and systemic therapy options including platinum-based chemotherapy and HER2/EGFR-targeted agents for advanced disease. The authors note that axillary sweat gland carcinomas can be histopathologically difficult to distinguish from primary or metastatic breast cancer.",
+      "why_it_matters": "Sweat gland carcinomas are frequently misdiagnosed because they lack specific clinical features and can closely resemble other cancers, so a standardized diagnostic and treatment framework could reduce delays in care for affected patients.",
+      "caveats": "single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Rare cancer guideline; limited consumer skincare relevance, narrow clinical audience.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Derm Review",
+          "headline": "Sweat Gland Cancers Get Their First Formal Clinical Guideline \u2014 Here's What Dermatologists Need to Know",
+          "hook": "More than 20 distinct types of sweat gland carcinoma exist, they often look like ordinary skin lumps, and one can mimic breast cancer \u2014 now there's a guideline to help clinicians navigate them.",
+          "pitch_angle": "Germany's new S1 guideline standardizes the diagnosis and management of sweat gland carcinomas, emphasizing histopathological subtyping and complete surgical excision as the cornerstone of treatment. The guidance also addresses the specific challenge of distinguishing axillary tumors from breast cancer metastases, a clinically significant diagnostic pitfall."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42306826",
+      "headline": "The green algae supplement in your smoothie has real antioxidant and anti-inflammatory science behind it \u2014 but major hurdles remain",
+      "journal": "Food & Function",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.1039/d6fo00663a",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "A narrative review synthesized current evidence on the bioactive composition and health effects of Chlorella vulgaris, a microalgae increasingly used as a dietary supplement and functional food ingredient. C. vulgaris contains antioxidants, polyunsaturated fatty acids, vitamins, and pigments, and shows antioxidant, anti-inflammatory, and immunomodulatory activity in reviewed studies. Authors note that large-scale application is limited by poor bioavailability, sensory issues, production challenges, and regulatory gaps.",
+      "why_it_matters": "Antioxidant and anti-inflammatory compounds in algae supplements are increasingly marketed for skin health, but this review suggests the science is still early-stage and bioavailability remains a critical unresolved issue.",
+      "caveats": "observational design, animal or cell study",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Antioxidant/anti-inflammatory angle has skincare hook; review only, no human skin data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Byrdie / Allure",
+          "headline": "Chlorella Is Everywhere in Wellness Right Now \u2014 Here's What the Science Actually Says",
+          "hook": "The green algae popping up in supplements and smoothies has genuine antioxidant and anti-inflammatory compounds, but researchers say bioavailability is still a major unsolved problem.",
+          "pitch_angle": "A new review maps out what Chlorella vulgaris actually contains and what it does in lab and animal studies \u2014 including properties relevant to skin inflammation and oxidative stress. The catch: translating those findings to real human skin benefits requires significantly more clinical research."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Biochemistry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42402508",
+      "headline": "An inflammation molecule linked to skin conditions like psoriasis may also drive high blood pressure \u2014 a genetic study suggests why",
+      "journal": "Immunogenetics",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.1007/s00251-026-01410-5",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers measured serum IL-36\u03b3 levels and genotyped IL36G gene variants in 264 patients with essential hypertension and 264 normotensive controls in Pakistan. Patients with hypertension had significantly elevated IL-36\u03b3 levels, and two specific gene polymorphisms (rs11690399 and rs11683399) were associated with 2.6-fold and 1.9-fold increased hypertension risk respectively. Mendelian randomization analysis suggested a potential causal relationship between elevated IL-36\u03b3 and hypertension risk.",
+      "why_it_matters": "IL-36\u03b3 is the same cytokine pathway implicated in pustular psoriasis and other inflammatory skin diseases, suggesting that people with these skin conditions may share an underlying inflammatory mechanism relevant to cardiovascular risk.",
+      "caveats": "observational design, single-center, limited skin tone diversity in sample, finding is tied to a single non-US/non-multinational region's genetics and healthcare context",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "IL-36 pathway is skin-relevant (psoriasis link) but primary finding is cardiovascular; regional generalizability limited.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Derm Review",
+          "headline": "The Psoriasis Cytokine IL-36 May Also Be a Hidden Driver of High Blood Pressure",
+          "hook": "IL-36\u03b3 \u2014 a cytokine already in dermatologists' crosshairs for pustular psoriasis \u2014 may also be associated with essential hypertension, a new genetic study suggests.",
+          "pitch_angle": "A study of over 500 adults found that elevated IL-36\u03b3 and specific IL36G gene variants were significantly associated with hypertension risk, raising questions about shared inflammatory pathways between inflammatory skin disease and cardiovascular conditions \u2014 a potential comorbidity signal for clinicians treating psoriasis."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Allergy & Immunology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42405503",
+      "headline": "In skin cancer surgery, how deep you cut matters more than how wide \u2014 and surgeons may not be cutting deep enough",
+      "journal": "The British Journal of Dermatology",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.1093/bjd/ljag269",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Surgeons at Nottingham University Hospitals examined surgical margin practices in cutaneous squamous cell carcinoma (cSCC) excision, arguing that deep margins \u2014 how far below the tumor the cut extends \u2014 are more clinically critical to outcomes than lateral (sideways) margins, which have historically received more attention. The paper appears to be a commentary or perspective piece rather than a primary data study, with no sample size reported in the abstract. The authors contend that current surgical practice may under-prioritize deep margin adequacy.",
+      "why_it_matters": "If deep margins are truly the more critical factor in preventing squamous cell carcinoma recurrence, the finding suggests a shift in surgical priorities could improve outcomes for one of the most common skin cancers.",
+      "caveats": "observational design, single-center, no sample size reported in abstract",
+      "fact_check_note": "Abstract contains no methods or results data \u2014 this is a commentary or perspective piece. Summary qualified accordingly; no sample size or direction of effect could be verified beyond the authors' stated argument.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Common skin cancer, counterintuitive clinical argument, but commentary format with no primary data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Vogue Health / General health",
+          "headline": "Skin Cancer Surgery Has Been Focused on the Wrong Margin \u2014 New Argument Challenges Standard Practice",
+          "hook": "Surgeons removing squamous cell carcinoma may have long prioritized how wide they cut over how deep \u2014 and a new paper argues that's backwards.",
+          "pitch_angle": "A UK surgical team contends that deep margins in squamous cell carcinoma excision are more predictive of cancer clearance than lateral margins, challenging a long-standing focus in surgical oncology. For readers who've had or know someone who's had cSCC removed, it raises important questions about what 'clear margins' actually means."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42403311",
+      "headline": "A validated itch-control test for a painful nodular skin condition is now available in 18 languages for the first time",
+      "journal": "Acta Dermato-Venereologica",
+      "pubdate": "2026 Jul 6",
+      "doi": "10.2340/actadv.v106.adv-2025-0123",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers led by investigators at Charit\u00e9 Berlin conducted a comprehensive linguistic validation and cross-cultural adaptation of the Prurigo Control Test (PCT) \u2014 the only validated patient-reported disease-control measure for prurigo nodularis and chronic prurigo \u2014 into 18 languages beyond its original German and English versions. The translation process followed ISPOR, EMA, and FDA best practices, including forward/backward translation, cognitive interviews, and proofreading across diverse age groups (18\u201380) and educational backgrounds. This is the first disease-control tool specifically designed for prurigo nodularis to undergo such extensive multilingual adaptation.",
+      "why_it_matters": "Prurigo nodularis causes intensely itchy, disfiguring nodules that disproportionately affect older adults; expanding its only validated control measure to 18 languages could enable more consistent global clinical trials and treatment monitoring.",
+      "caveats": "industry funding [Sanofi]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Methodological/tools study; limited direct skincare or biology angle for consumer outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "The Maddening Itch Condition You've Never Heard Of Just Got a Major Global Tool",
+          "hook": "Prurigo nodularis \u2014 a chronic skin disease that causes intense, relentless itching and scarring nodules \u2014 now has its only validated tracking test available in 18 languages.",
+          "pitch_angle": "Until now, assessing how well this debilitating condition is controlled has been limited by language barriers, hampering global research and patient care. The multilingual rollout of the Prurigo Control Test could accelerate clinical trials and help patients and doctors communicate more effectively about disease burden across cultures."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42400578",
+      "headline": "Skin research labs are drowning in plastic waste \u2014 and a simple packaging swap could help",
+      "journal": "The Journal of Investigative Dermatology",
+      "pubdate": "2026 Jul 4",
+      "doi": "10.1016/j.jid.2026.05.018",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers from multiple European institutions examined the environmental footprint of plastic waste generated in skin-model research and proposed sustainable packaging as a practical first step toward reduction. The paper is a perspective or commentary piece rather than an interventional study. The authors suggest that simple changes in packaging practices in dermatology research labs could meaningfully reduce plastic waste without disrupting experimental outcomes.",
+      "why_it_matters": "The piece highlights an overlooked sustainability issue at the source of skincare science \u2014 the very labs developing next-generation skin models \u2014 suggesting the industry's green credentials could start with basic lab practices.",
+      "caveats": "observational design, small sample (N<100), single-center",
+      "fact_check_note": "Abstract does not provide study design details, sample size, or primary data \u2014 this appears to be a commentary or perspective piece, not an empirical study. Summary qualified accordingly.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Sustainability commentary, limited direct skin health or skincare ingredient relevance for consumer audiences.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Derm Review / General health",
+          "headline": "Dermatology Labs Generate Enormous Plastic Waste \u2014 Researchers Say a Simple Fix Exists",
+          "hook": "The labs developing the skin models behind your favorite skincare innovations may be some of the biggest plastic polluters in science.",
+          "pitch_angle": "Researchers are calling on skin-model labs to start with sustainable packaging as a low-friction first step toward greener research. For science-forward readers, it reframes the sustainability conversation from consumer products to the research pipeline itself."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42397957",
+      "headline": "A protein naturally low in alopecia areata patients successfully reversed hair loss in mice \u2014 and researchers now know why",
+      "journal": "The British Journal of Dermatology",
+      "pubdate": "2026 Jul 3",
+      "doi": "10.1093/bjd/ljag274",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers collected blood and scalp tissue from alopecia areata (AA) patients and healthy controls, finding that a signaling protein called soluble CD83 (sCD83) is significantly lower in AA patients and inversely associated with disease severity. In a mouse model of AA, supplementing sCD83 reversed hair loss and restored immune tolerance by activating regulatory T cells (Tregs) via an enzyme called IDO in hair follicle cells. The study also identified a potential receptor (TRX) through which sCD83 acts on hair follicle keratinocytes, providing a mechanistic pathway for future drug development.",
+      "why_it_matters": "The finding suggests that alopecia areata may be driven in part by a deficiency of a naturally occurring immune-regulating protein, opening a potentially novel therapeutic target distinct from current immunosuppressive approaches.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, limited skin tone diversity in sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "High-interest hair loss condition, novel mechanism, but primarily mouse/cell data limits clinical translation.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "Scientists Found a Protein That's Missing in Alopecia Areata \u2014 and Replacing It Reversed Hair Loss in Mice",
+          "hook": "People with alopecia areata may be deficient in a naturally occurring immune protein that normally protects hair follicles \u2014 and in mice, adding it back brought hair growth.",
+          "pitch_angle": "New research identifies sCD83 as a potential missing link in the autoimmune attack that causes alopecia areata, suggesting the disease may involve a deficiency of protection rather than just an excess of immune aggression. While still early-stage, the finding points toward a new class of targeted treatments for a condition that affects millions and has limited options."
+        },
+        {
+          "publication_type": "Vogue Health / Self",
+          "headline": "Why Your Immune System Might Be the Reason Your Hair Is Falling Out \u2014 New Science Explains",
+          "hook": "Alopecia areata isn't just about the immune system attacking hair \u2014 it may also be about a protective protein failing to show up in the first place.",
+          "pitch_angle": "Researchers found that alopecia areata patients have measurably lower levels of a regulatory immune protein called sCD83, and that its levels track with how severe the hair loss is. The discovery reframes the disease's mechanism and could eventually lead to treatments that restore immune tolerance rather than broadly suppressing immunity."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42398231",
+      "headline": "Common scalp conditions mimic a scarring hair-loss disorder under the microscope \u2014 making biopsy diagnosis trickier than thought",
+      "journal": "Anais Brasileiros de Dermatologia",
+      "pubdate": "2026 Jul 3",
+      "doi": "10.1016/j.abd.2026.501408",
+      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers blindly evaluated transverse scalp biopsies from 56 Caucasian male patients (21 with androgenetic alopecia, 35 with seborrheic dermatitis) to identify histopathological features distinguishing these common non-scarring conditions from fibrosing alopecia in a pattern distribution. Perifollicular fibrosis \u2014 a hallmark feature typically associated with scarring alopecia \u2014 was found frequently in both androgenetic alopecia and seborrheic dermatitis, undermining its diagnostic specificity. The study found that only a handful of features (eccrine duct dilation and mild basal vacuolization in AGA; polytrichia in SD) were condition-specific, with Demodex mites also more prevalent in AGA.",
+      "why_it_matters": "This suggests that microscopic features used to diagnose permanent, scarring hair loss may be present in far more common, reversible scalp conditions \u2014 raising the stakes for accurate clinical interpretation of scalp biopsies.",
+      "caveats": "small sample (N<100), observational design, single-center, male patients only, limited skin tone diversity in sample, cross-sectional design, no FAPD comparison group",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically relevant hair-loss finding but small male-only Caucasian sample limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Derm Review",
+          "headline": "Scalp Biopsy Pitfalls: Why Perifollicular Fibrosis Alone Can't Diagnose Scarring Alopecia",
+          "hook": "A feature long associated with permanent hair loss also shows up in androgenetic alopecia and seborrheic dermatitis \u2014 two of the most common scalp conditions.",
+          "pitch_angle": "New histopathological data suggest that perifollicular fibrosis lacks diagnostic specificity for fibrosing alopecia, meaning clinicians risk misclassifying reversible hair loss as permanent scarring alopecia. Careful clinicopathological correlation, not biopsy findings alone, may be essential to avoid over- or under-treatment."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42418526",
+      "headline": "A hybrid drug designed to boost light-activated cancer therapy outperforms standard treatment in melanoma model",
+      "journal": "Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "pubdate": "2026 Dec",
+      "doi": "10.1080/14756366.2026.2700840",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
+      "summary": "Researchers designed a series of novel hybrid compounds combining 5-aminolevulinic acid (ALA) and hydroxypyridinone (HPO) iron chelators to improve the efficacy of photodynamic therapy (PDT) for superficial tumors. The optimized compound, AP-8, was tested in a mouse melanoma model. AP-8 produced higher levels of the photosensitizer PpIX and achieved an 84.74% tumor growth inhibition, outperforming standard ALA-based PDT.",
+      "why_it_matters": "This early-stage chemistry work suggests a new molecular approach to photodynamic therapy for superficial skin tumors like melanoma may significantly improve treatment effectiveness over current options.",
+      "caveats": "animal or cell study, small sample (N<100), single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Skin cancer relevance, but animal/cell study only limits applicability.",
+      "pitch_angles": [
+        {
+          "publication_type": "The Derm Review",
+          "headline": "A new hybrid compound could make light-based skin cancer therapy far more powerful",
+          "hook": "A novel drug designed to flood tumor cells with a light-activated pigment achieved 84.74% tumor growth inhibition in a melanoma model \u2014 outperforming current photodynamic therapy.",
+          "pitch_angle": "Researchers engineered a dual-action prodrug that both increases the photosensitizer PpIX inside tumor cells and starves them of iron, dramatically boosting PDT's anti-tumor punch. Though still in animal studies, the findings point toward a more effective approach to treating superficial skin cancers like basal cell carcinoma and melanoma."
+        }
+      ],
+      "run_date": "2026-07-10",
+      "category": "Biochemistry",
+      "chunk": "1/2",
+      "status": "new"
+    },
     {
       "pmid": "42411616",
       "headline": "Food insecurity is a hidden driver of pediatric skin disease that dermatologists are largely missing",
@@ -34,33 +364,6 @@
       "run_date": "2026-07-09",
       "category": "Dermatology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42306826",
-      "headline": "Algae supplement Chlorella vulgaris shows antioxidant and anti-inflammatory promise \u2014 but major hurdles remain before it's ready for your routine",
-      "journal": "Food & Function",
-      "pubdate": "2026 Jul 6",
-      "doi": "10.1039/d6fo00663a",
-      "groundbreaking": "Major skincare or skin health implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers conducted a narrative review of existing literature on Chlorella vulgaris, a freshwater microalgae, examining its bioactive compounds and proposed health mechanisms. The review found C. vulgaris contains antioxidants, anti-inflammatory compounds, polyunsaturated fatty acids, vitamins, and pigments with immunomodulatory properties potentially relevant to skin health. However, the authors note that poor bioavailability, sensory issues, scalability challenges, and regulatory barriers currently limit its use in functional foods and supplements.",
-      "why_it_matters": "The antioxidant and anti-inflammatory properties of Chlorella vulgaris suggest possible relevance to skin health, though significant formulation and bioavailability barriers must be resolved before meaningful skincare applications can be established.",
-      "caveats": "observational design, secondary analysis, animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Narrative review with indirect skin relevance; no human subjects data; major caveats.",
-      "pitch_angles": [
-        {
-          "publication_type": "Byrdie / General health",
-          "headline": "The Algae Ingredient Getting Buzz in Wellness Circles \u2014 Here's What the Science Actually Says",
-          "hook": "Chlorella vulgaris is packed with antioxidants and anti-inflammatory compounds, but a sweeping new review suggests the science isn't quite ready to back the hype.",
-          "pitch_angle": "A 2026 review found that Chlorella vulgaris contains a rich mix of skin-relevant bioactives \u2014 including antioxidants and anti-inflammatory compounds \u2014 but poor bioavailability and formulation challenges mean it's far from a proven skincare ingredient. Experts note that multi-omics research and better delivery systems are needed before consumers can expect real skin benefits."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Biochemistry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -163,66 +466,6 @@
       "status": "new"
     },
     {
-      "pmid": "42397957",
-      "headline": "A protein deficient in alopecia areata patients reverses hair loss in mice by reactivating immune tolerance",
-      "journal": "The British Journal of Dermatology",
-      "pubdate": "2026 Jul 3",
-      "doi": "10.1093/bjd/ljag274",
-      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers measured soluble CD83 (sCD83) levels in alopecia areata (AA) patients and healthy controls, finding that AA patients have significantly lower sCD83, with levels inversely correlated with disease severity. Using a mouse model of AA, they showed that supplementing sCD83 reversed hair loss and restored regulatory T cell (Treg) proliferation. Mechanistically, sCD83 appears to work through IDO activity in hair follicle keratinocytes to reactivate immune tolerance in the scalp.",
-      "why_it_matters": "Identifying sCD83 deficiency as a driver of alopecia areata opens a potential new immune-targeted pathway for treating this often-devastating form of hair loss.",
-      "caveats": "small sample (N<100), animal or cell study, single-center, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 6,
-      "relevance_score_reason": "Novel immune mechanism for AA; limited by mouse model and small human sample.",
-      "pitch_angles": [
-        {
-          "publication_type": "Allure / Byrdie",
-          "headline": "Scientists May Have Found a Missing Protein Behind Alopecia Areata \u2014 And Restoring It Reversed Hair Loss in Mice",
-          "hook": "People with alopecia areata appear to be deficient in a key immune-regulating protein \u2014 and replenishing it reversed hair loss in an animal model.",
-          "pitch_angle": "A new study found that patients with alopecia areata have lower levels of a protein called sCD83, and that the more severe their hair loss, the lower their levels. Restoring sCD83 in mice reversed the condition by calming the immune attack on hair follicles \u2014 suggesting a new biological target for future treatments."
-        },
-        {
-          "publication_type": "The Derm Review",
-          "headline": "sCD83 Deficiency Identified as a Potential Driver of Alopecia Areata Via IDO-Treg Pathway",
-          "hook": "New mechanistic research suggests that sCD83 deficiency may critically impair immune tolerance in alopecia areata through IDO-mediated Treg suppression.",
-          "pitch_angle": "The study establishes that sCD83 released from dendritic cells is reduced in AA patients, and that supplementing it in a mouse model restored Treg cell homeostasis and reversed disease via IDO activity in outer root sheath keratinocytes. This identifies a candidate pathway for immune-modulatory AA therapy distinct from current JAK inhibitor approaches."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Dermatology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42398231",
-      "headline": "Common scalp conditions mimic scarring hair loss under the microscope \u2014 and that's a real diagnostic problem",
-      "journal": "Anais Brasileiros de Dermatologia",
-      "pubdate": "2026 Jul 3",
-      "doi": "10.1016/j.abd.2026.501408",
-      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers blindly evaluated transverse scalp biopsy sections from 56 Caucasian male patients (21 with androgenetic alopecia, 35 with seborrheic dermatitis) to identify histopathological features distinguishing the two conditions from fibrosing alopecia in a pattern distribution (FAPD). Perifollicular fibrosis and inflammation \u2014 hallmarks used to diagnose scarring alopecia \u2014 were found frequently in both non-scarring conditions, limiting their diagnostic specificity. A few subtle markers (eccrine duct dilation and basal vacuolization in AGA; polytrichia in seborrheic dermatitis) showed promise for differentiation, but substantial overlap remained.",
-      "why_it_matters": "If scalp biopsy features commonly associated with scarring hair loss also appear in everyday, non-scarring conditions, misdiagnosis is a real risk \u2014 with significant consequences for treatment decisions.",
-      "caveats": "small sample (N<100), observational design, single-center, limited skin tone diversity in sample, male patients only, cross-sectional design, no FAPD comparison group",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Clinically relevant hair loss finding but small, male-only, Caucasian-only sample limits generalizability.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Derm Review / General health",
-          "headline": "Why Even Scalp Biopsies Can Miss the Difference Between Common Hair Loss and Scarring Alopecia",
-          "hook": "Two of the most-used microscopic clues for diagnosing scarring hair loss turn out to be just as common in ordinary male pattern baldness and dandruff.",
-          "pitch_angle": "A new biopsy study found that perifollicular fibrosis and inflammation \u2014 features considered hallmarks of destructive, scarring alopecia \u2014 frequently appear in androgenetic alopecia and seborrheic dermatitis, raising the risk of misclassification. Getting the diagnosis wrong matters: scarring alopecias require urgent treatment to prevent permanent follicle loss, while non-scarring types do not."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Dermatology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
       "pmid": "42398777",
       "headline": "A new dermoscopy technique may sharpen detection of melanoma on the palms and soles where it's most often missed",
       "journal": "Journal of the American Academy of Dermatology",
@@ -307,33 +550,6 @@
       "run_date": "2026-07-09",
       "category": "Dermatology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42418526",
-      "headline": "A new drug hybrid supercharges photodynamic therapy against skin tumors, shrinking melanoma by 85% in mice",
-      "journal": "Journal of Enzyme Inhibition and Medicinal Chemistry",
-      "pubdate": "2026 Dec (Epub 2026 Jul 8)",
-      "doi": "10.1080/14756366.2026.2700840",
-      "groundbreaking": "First-in-class human study \u2014 No (preclinical); Major skincare or skin health implication \u2014 early evidence for improved PDT against superficial skin tumors",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers designed a series of hybrid molecules (ALA-HPO) combining 5-aminolevulinic acid \u2014 a standard photodynamic therapy prodrug \u2014 with iron-chelating hydroxypyridinone groups to boost production of the tumor-killing photosensitizer PpIX and improve drug delivery to tumor cells. The lead compound AP-8 was tested in a mouse melanoma model and achieved a tumor growth inhibition of 84.74%, outperforming ALA alone. The study suggests that dual-action ALA-HPO hybrids may improve PDT outcomes for superficial tumors such as skin cancers, though all evidence is currently preclinical.",
-      "why_it_matters": "Early evidence suggests this compound class could make photodynamic therapy \u2014 already used for superficial skin cancers and precancerous lesions \u2014 significantly more effective, potentially expanding treatment options for patients with basal cell carcinoma, actinic keratoses, and melanoma.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Skin cancer PDT relevance, but preclinical mouse model only; no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Derm Review / General health",
-          "headline": "A New Drug Strategy Could Make Skin Cancer Light Therapy Far More Powerful",
-          "hook": "A novel compound that combines two cancer-fighting mechanisms \u2014 light activation and iron starvation \u2014 shrank melanoma tumors by nearly 85% in mice.",
-          "pitch_angle": "Researchers engineered a hybrid molecule that boosts the tumor-killing photosensitizer used in photodynamic therapy while simultaneously starving cancer cells of iron, achieving dramatically better results than the current standard agent in preclinical testing. If the approach translates to humans, it could improve PDT outcomes for superficial skin cancers including basal cell carcinoma, actinic keratoses, and melanoma \u2014 conditions affecting millions annually."
-        }
-      ],
-      "run_date": "2026-07-09",
-      "category": "Biochemistry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
