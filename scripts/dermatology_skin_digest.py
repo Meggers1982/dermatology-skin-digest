@@ -411,7 +411,7 @@ Abstract: {s['abstract']}
 
     prompt = f"""You are a science writer and editor for a Dermatology & Skin Science Research Digest, writing for a journalist audience covering skincare science, skin conditions, cosmetic dermatology, allergy, immunological skin diseases, and the biochemistry of skin.
 
-Your readers pitch to publications like Allure, Byrdie, Vogue Health, Women's Health Magazine, The Derm Review, and science-forward beauty and health outlets.
+Your readers pitch to publications like Allure, Byrdie, Vogue, Women's Health Magazine, Health.com, Good Housekeeping, Prevention, First for Women, and science-forward beauty and health outlets.
 
 For each study below, return a single JSON array. Each object must have exactly these keys:
 
@@ -431,7 +431,7 @@ For each study below, return a single JSON array. Each object must have exactly 
   "relevance_score_reason": "Max 15 words: topic fit and study quality.",
   "pitch_angles": [
     {{
-      "publication_type": "e.g. Allure / Byrdie / Vogue Health / Women's Health / The Derm Review / General health",
+      "publication_type": "e.g. Allure / Byrdie / Vogue / Women's Health / Health.com / Good Housekeeping / Prevention / First for Women / General health",
       "headline": "Publication-appropriate headline",
       "hook": "One sentence opening leading with the surprising or useful finding",
       "pitch_angle": "2 sentences max: what happened, why it matters for skin health or skincare, product/routine or clinical significance"
@@ -441,7 +441,7 @@ For each study below, return a single JSON array. Each object must have exactly 
 
 Rules for pitch_angles:
 - Generate ONE pitch angle if the study fits one obvious publication type
-- Generate MULTIPLE angles (2-3 max) only when the study genuinely fits different audiences with meaningfully different framings — e.g. a retinol mechanism study could pitch differently to Allure (product/ingredient angle) vs Vogue Health (science/longevity angle) vs The Derm Review (clinical protocol angle)
+- Generate MULTIPLE angles (2-3 max) only when the study genuinely fits different audiences with meaningfully different framings — e.g. a retinol mechanism study could pitch differently to Allure (product/ingredient angle) vs Vogue (science/longevity angle) vs Health.com (clinical evidence angle)
 - Do not pad with extra angles if one covers it
 
 Rules for content:
