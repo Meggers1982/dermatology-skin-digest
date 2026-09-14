@@ -33,11 +33,28 @@ Can also be triggered manually via **Actions -> Dermatology & Skin Science Resea
 
 | Category | Journals | Jobs |
 |---|---:|---|
-| Dermatology | 48 | 2 (chunks 1-2) |
-| Allergy & Immunology | 135 | 2 (chunks 1-2) |
+| Dermatology | 53 | 2 (chunks 1-2) |
+| Allergy & Immunology | 139 | 2 (chunks 1-2) |
 | Biochemistry | 188 | 2 (chunks 1-2) |
 
 Large categories are split into chunks to keep run times under 20 minutes.
+
+The category CSVs in `data/` are now hand-maintained and are the source of truth. `scripts/extract_journals.py` originally generated them from a spreadsheet that no longer exists, so re-running it would wipe hand-added rows.
+
+## Journal list audit (2026-09-14)
+
+Pulled OpenAlex's top sources for this digest's subject areas over the prior year, diffed them against the CSVs by ISSN and title, and kept only titles that PubMed indexes with at least 20 articles in the last 12 months. Every row searches PubMed with no topic filter, so each added journal's full weekly output enters the digest.
+
+Added (9):
+
+- **Dermatology:** Clinical, Cosmetic and Investigational Dermatology (~460 PubMed articles/yr), Dermatology and Therapy (~410), JAAD International (~280), International Journal of Women's Dermatology (~80), Annals of Dermatology (~60)
+- **Allergy & Immunology:** Frontiers in Allergy (~265), Allergologia et Immunopathologia (~140; the NLM record is tagged Spanish, but all of its PubMed articles from the last 12 months are in English), Allergy, Asthma & Clinical Immunology (~70), Asia Pacific Allergy (~50)
+
+Left out:
+
+- **Not in PubMed, or no articles there in the last 12 months:** Annales de Dermatologie et de Vénéréologie - FMC (190 subject-area articles/yr), Revue française d'allergologie (156), Cosmetics (MDPI, 115), Allergo Journal (79), Allergo Journal International, and Russian Journal of Clinical Dermatology and Venereology. Several smaller regional dermatology titles were also left out for this reason.
+- **Too few PubMed articles:** SKIN: The Journal of Cutaneous Medicine (303 articles/yr in OpenAlex, but only 1 in PubMed) and Aerobiologia (2)
+- **Mega-journals:** none of the candidates published more than 1,000 articles/yr
 
 ## Manual Trigger
 
