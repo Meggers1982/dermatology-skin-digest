@@ -17,7 +17,7 @@ A GitHub Actions workflow that searches curated dermatology, allergy and immunol
 
 Features:
 - Card view per study with headline, summary, caveats, fact-check notes
-- Expandable pitch angles section for publications such as Allure, Byrdie, Vogue beauty, Self, Well+Good, Healthline, Prevention, and general health outlets
+- Expandable pitch angles section for publications such as Allure, Byrdie, Vogue beauty, Well+Good, Healthline, Prevention, and general health outlets
 - Filter by category, groundbreaking type, status, date range, and score
 - Search across all study text and pitches
 - Status tracking (New / Saved / Pitched / Passed) saved to localStorage
