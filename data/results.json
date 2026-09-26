@@ -1,33 +1,261 @@
 {
-  "last_updated": "2026-09-25T15:47:32.194559+00:00",
-  "total_studies": 247,
-  "new_this_run": 2,
+  "last_updated": "2026-09-26T14:57:58.844054+00:00",
+  "total_studies": 252,
+  "new_this_run": 5,
   "studies": [
     {
+      "pmid": "42566999",
+      "headline": "A placenta-derived hydrogel dressing kills bacteria and keeps skin cells alive in the lab \u2014 now needs real-wound testing",
+      "journal": "Biochemical and Biophysical Research Communications",
+      "pubdate": "2026 Sep 24",
+      "doi": "10.1016/j.bbrc.2026.154373",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Iranian researchers developed a hydrogel combining chitosan, hydroxypropyl methylcellulose, and propylene glycol loaded with freeze-dried human amniotic membrane particles, targeting chronic wound care. The optimized formulation gelled rapidly, maintained over 85% viability in L929 fibroblast cells, released proteins sustainably, and inhibited both gram-positive and gram-negative bacteria in vitro. No animal or human wound studies have been conducted yet; the authors call explicitly for further in vivo and clinical work.",
+      "why_it_matters": "Chronic wounds affect millions of people and resist standard dressings, so a bioactive hydrogel that combines antibacterial action with growth-factor delivery could represent a meaningful step toward better wound care \u2014 if it performs in living tissue.",
+      "caveats": "animal or cell study, no in vivo data, single-center, Iran-based research group, no human wound trial",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Wound healing is skin-relevant but purely cell-lab study; no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Are Using Placenta-Derived Particles to Build Smarter Wound Dressings",
+          "hook": "A new lab-engineered hydrogel blending human amniotic membrane proteins with chitosan kept skin cells alive and killed bacteria \u2014 suggesting a potential future upgrade to chronic wound care.",
+          "pitch_angle": "Researchers combined freeze-dried human amniotic membrane with a biocompatible hydrogel scaffold, finding it released wound-healing proteins and showed antibacterial activity in lab tests. While no human trials have been done, the approach highlights a growing strategy of harnessing placental biology to treat skin wounds that resist conventional dressings."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Biochemistry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42775574",
+      "headline": "A light-activated gel nearly erases diabetic wound bacteria in mice \u2014 without burning healthy skin",
+      "journal": "Journal of Materials Chemistry B",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1039/d6tb00971a",
+      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers engineered a hydrogel dressing combining molybdenum disulfide (MoS\u2082), zinc oxide nanoparticles, and a polymer scaffold, tested in vitro against E. coli and S. aureus and in a S. aureus-infected diabetic mouse model. The gel uses sustained zinc-ion release to weaken bacterial membranes first, then applies mild near-infrared photothermal heating (~50 \u00b0C) to kill pathogens \u2014 sidestepping the typical need for tissue-damaging high heat (>60 \u00b0C). In mice, the dressing reduced bacterial load by 98.05% and shrank residual wound area to just 1.11% after 15 days, with histology confirming collagen deposition, re-epithelialization, and new blood vessel formation.",
+      "why_it_matters": "Diabetic wounds are notoriously hard to heal and increasingly resistant to antibiotics, so a non-antibiotic strategy that clears infection while actively promoting skin tissue repair \u2014 without thermal damage \u2014 could represent a meaningful advance in wound care.",
+      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Relevant wound-healing skin finding; animal study limits score significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Built a Wound-Healing Gel That Kills 98% of Drug-Resistant Bacteria \u2014 Using Light Instead of Antibiotics",
+          "hook": "A new hydrogel dressing uses a one-two punch of zinc ions and gentle light-activated heat to wipe out nearly all bacteria in diabetic wounds in mice \u2014 without scorching surrounding skin.",
+          "pitch_angle": "Diabetic wounds affect millions and are notoriously difficult to treat as antibiotic resistance rises; this mouse-stage technology suggests a non-antibiotic, light-based approach could clear infection while simultaneously rebuilding skin tissue, offering a potential new direction for wound-care research."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Biochemistry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42776550",
+      "headline": "Most transfeminine adults with significant facial hair have never received a clinical hirsutism diagnosis \u2014 and face major barriers to permanent removal",
+      "journal": "JAMA Dermatology",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1001/jamadermatol.2026.3664",
+      "groundbreaking": "First-in-class human study / Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted semistructured qualitative interviews with 18 transgender women and nonbinary adults assigned male at birth across three Atlanta clinics to explore how hirsutism affects daily life and gender expression. Fourteen of 18 participants self-rated clinically significant hirsutism levels, yet only one had ever received a formal clinical diagnosis. Participants described hirsutism-related stigma, avoidance of social and romantic situations, and significant barriers to permanent hair removal including cost, lack of insurance coverage, and unwelcoming clinical environments.",
+      "why_it_matters": "This study suggests that transfeminine individuals with clinically significant hirsutism are largely going undiagnosed and underserved, pointing to a major gap in inclusive dermatological care.",
+      "caveats": "small sample (N<100), observational design, single-center, self-reported outcomes, qualitative only",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Important equity gap in dermatology care; qualitative, very small N limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Only 1 in 18 Transfeminine Adults With Significant Facial Hair Had Ever Been Diagnosed \u2014 Here's What Dermatologists Are Missing",
+          "hook": "Despite experiencing clinically significant facial hair, nearly every transfeminine participant in a new study had never received a hirsutism diagnosis from a doctor.",
+          "pitch_angle": "A JAMA Dermatology study found sweeping gaps in diagnosis and access to permanent hair removal for transgender women, from insurance exclusions to unwelcoming clinics. Experts say multilevel changes \u2014 in clinical training, insurance policy, and service inclusivity \u2014 are needed to close the gap."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42776558",
+      "headline": "Dermatology experts finally agree on how to treat razor bumps \u2014 and multiblade razors didn't make the cut",
+      "journal": "JAMA Dermatology",
+      "pubdate": "2026 Sep 23",
+      "doi": "10.1001/jamadermatol.2026.3579",
+      "groundbreaking": "First-in-class human study / Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A three-round Delphi consensus study assembled a panel of board-certified US dermatologists with expertise in pseudofolliculitis barbae (PFB) \u2014 a chronic inflammatory condition caused by curved shaved hairs re-entering the skin, disproportionately affecting people with tightly coiled hair \u2014 to establish standardized management guidelines. Forty consensus statements reached \u226575% agreement, supporting behavioral modification of hair removal as first-line therapy, targeted topical and systemic treatments, and laser hair removal as a procedural option. No consensus was reached on multiblade razor use, oral isotretinoin for refractory disease, or a standardized severity grading scale.",
+      "why_it_matters": "These first expert-consensus guidelines for PFB give clinicians and patients a clearer, evidence-informed roadmap for managing a common but often undertreated skin condition that disproportionately affects Black men and women.",
+      "caveats": "observational design, consensus methodology (not RCT evidence)",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "High-prevalence condition with clear practical hook; consensus not RCT, but clinically significant.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "Dermatologists Just Released the First Official Guidelines for Razor Bumps \u2014 Here's What They Say About Your Shaving Routine",
+          "hook": "Multiblade razors couldn't reach consensus among dermatology experts \u2014 and that alone should change how you think about shaving if you're prone to razor bumps.",
+          "pitch_angle": "A new JAMA Dermatology consensus study found that changing how you remove hair is the first-line recommendation for pseudofolliculitis barbae, with laser hair removal also backed by experts. The guidelines are a major step for a condition that disproportionately affects Black skin and has long lacked standardized care."
+        },
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "What Are Razor Bumps, Really? Dermatologists Just Agreed on How to Treat Them for the First Time",
+          "hook": "For a skin condition affecting millions \u2014 especially Black men and women \u2014 there were no standardized treatment guidelines until now.",
+          "pitch_angle": "Pseudofolliculitis barbae (PFB) causes chronic skin inflammation when curved hairs curl back into the skin after shaving, and it's been notoriously undertreated. New expert consensus guidelines published in JAMA Dermatology outline best practices from hair removal behavior changes to laser treatment, and flag areas where evidence is still too thin to recommend."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42771566",
+      "headline": "The same antibody behind your allergic reactions may also fight tumors \u2014 scientists are racing to harness it safely",
+      "journal": "International archives of allergy and immunology",
+      "pubdate": "2026 Sep 22",
+      "doi": "10.1159/iaa/adfag029",
+      "groundbreaking": "Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a systematic narrative review of the emerging science around antigen-specific IgE (AS-IgE), the antibody class classically associated with allergic reactions including skin conditions like urticaria and atopic dermatitis. The review synthesizes preclinical and early translational evidence showing AS-IgE can activate immune cells (monocytes and macrophages via Fc\u03b5RI receptors) to kill tumor cells through antibody-dependent cytotoxicity and phagocytosis, potentially reshaping the tumor microenvironment. The dual nature of AS-IgE \u2014 driving allergy risk while also showing anti-cancer activity \u2014 is identified as both a promising therapeutic opportunity and a key safety challenge requiring engineering solutions such as sialic acid modification.",
+      "why_it_matters": "For readers tracking allergy and immune-skin science, this suggests the IgE pathway driving conditions like hives and eczema flares may one day be strategically redirected as a cancer-fighting tool \u2014 but only if researchers can first neutralize its allergy-triggering side.",
+      "caveats": "observational design, animal or cell study, preprint-level DOI format, secondary analysis, small sample (N<100)",
+      "fact_check_note": "The DOI format (10.1159/iaa/adfag029) appears non-standard and could not be fully verified; readers should confirm publication status independently.",
+      "relevance_score": 5,
+      "relevance_score_reason": "IgE links to allergic skin disease; review only, no human clinical data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "The Allergy Antibody IgE Has a Secret: It Might Also Fight Cancer",
+          "hook": "The same immune molecule that triggers your hives or eczema flares could, with the right engineering, be turned into a cancer-fighting weapon.",
+          "pitch_angle": "Scientists reviewing IgE biology found that this allergy antibody can activate immune cells to attack tumors \u2014 but harnessing it safely means solving the allergy problem first. For anyone with an IgE-driven skin condition, it reframes what this molecule actually does in the body."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Allergy & Immunology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42767373",
-      "headline": "A peptide that mimics estrogen's barrier-building effects may offer a new way to strengthen fragile epithelial tissue",
-      "journal": "Mucosal immunology",
+      "headline": "A new peptide may repair the vaginal skin barrier weakened by hormonal contraception or menopause \u2014 and hints at a fix for skin barriers too",
+      "journal": "Mucosal Immunology",
       "pubdate": "2026 Sep 21",
       "doi": "10.1016/j.mucimm.2026.100406",
       "groundbreaking": "First-in-class human study / Major skincare or skin health implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers developed a synthetic peptide (EFNA3-MAP) that mimics the signaling of the protein ephrin-A3 to activate the EphA2 receptor, which supports desmosome expression and epithelial barrier integrity. The peptide was tested in mice treated with the contraceptive DMPA (which strips estrogen and weakens epithelial barriers) and in rhesus macaques, using cell-based and animal models. EFNA3-MAP penetrated vaginal epithelium more effectively than the recombinant protein version, restored barrier thickness and key structural proteins, and reduced susceptibility to bacterial and viral infection \u2014 with the researchers explicitly noting potential implications for cutaneous (skin) barrier function.",
-      "why_it_matters": "The signaling pathway targeted here \u2014 ephrin-EphA2 \u2014 also operates in skin, suggesting this mechanism could eventually inform new approaches for strengthening the skin barrier in conditions like atopic dermatitis or menopausal skin thinning.",
-      "caveats": "animal or cell study, small sample (N<100), short follow-up, single-center",
+      "summary": "Researchers developed a synthetic peptide (EFNA3-MAP) that mimics the signaling molecule ephrin-A3 to restore epithelial barrier integrity in the vaginal stratified squamous epithelium, which is biochemically similar to skin. In mouse and rhesus macaque models, the peptide restored desmosomal protein (DSG1) levels and epithelial thickness that had been depleted by the contraceptive depot-medroxyprogesterone acetate (DMPA) or estrogen loss, and reduced susceptibility to genital infection. The authors note this signaling pathway also governs cutaneous (skin) barrier function, suggesting the peptide could have broader topical skin applications.",
+      "why_it_matters": "This early research suggests that estrogen-dependent signaling pathways governing skin-like epithelial barriers could one day be targeted with topical peptides \u2014 potentially relevant to barrier weakening seen in menopausal skin or after hormonal contraceptive use.",
+      "caveats": "animal or cell study, small sample (N<100), short follow-up, no human skin data yet",
       "fact_check_note": "",
       "relevance_score": 5,
-      "relevance_score_reason": "Animal study with explicit skin barrier translation potential; no human skin data yet.",
+      "relevance_score_reason": "Barrier function mechanism with skin generalizability hint; animal study only limits score.",
       "pitch_angles": [
         {
-          "publication_type": "Health.com / Women's Health",
-          "headline": "Scientists Are Studying a Peptide That Could Help Strengthen Fragile Skin and Mucosal Barriers \u2014 Especially After Hormonal Changes",
-          "hook": "Estrogen doesn't just affect mood and bones \u2014 it actively maintains the structural proteins that keep epithelial barriers strong, and a new synthetic peptide may be able to stand in for it.",
-          "pitch_angle": "Research in mice and primates found that an engineered peptide targeting the EphA2 receptor can restore barrier thickness and key structural proteins lost when estrogen drops \u2014 such as during use of hormonal contraceptives or menopause. The researchers explicitly flagged that the same signaling pathway operates in skin, raising the possibility this approach could one day benefit people with barrier-compromised conditions like eczema or menopausal skin thinning."
+          "publication_type": "Women's Health / Health.com",
+          "headline": "Your Hormonal Birth Control May Be Weakening Your Skin Barrier \u2014 A New Peptide Could Help Restore It",
+          "hook": "A synthetic peptide restored skin-like barrier tissue broken down by a common hormonal contraceptive \u2014 and researchers say it could work on skin itself.",
+          "pitch_angle": "Scientists found that the contraceptive DMPA and estrogen loss from menopause both deplete a key structural protein (DSG1) in epithelial barriers closely related to skin; a new mimetic peptide reversed this damage in animal models and the authors explicitly propose testing it on skin next \u2014 making this an early but compelling signal for women experiencing barrier-related skin changes tied to hormonal shifts."
+        },
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "Scientists Are Developing a Peptide That Rebuilds the Skin Barrier from the Inside Out",
+          "hook": "A newly engineered peptide rebuilt barrier tissue weakened by hormone loss \u2014 and it works by boosting the same desmosomal proteins that keep your skin intact.",
+          "pitch_angle": "The peptide targets EphA2, a receptor involved in producing desmosomes \u2014 the molecular 'rivets' that hold skin cells together and maintain barrier function; though tested in vaginal epithelium, the biology is nearly identical to cutaneous skin, and the researchers say topical skin applications are the logical next step."
         }
       ],
-      "run_date": "2026-09-25",
+      "run_date": "2026-09-26",
       "category": "Allergy & Immunology",
       "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42765845",
+      "headline": "A picosecond laser cleared melasma in darker skin tones with no cases of post-inflammatory hyperpigmentation",
+      "journal": "Italian Journal of Dermatology and Venereology",
+      "pubdate": "2026 Sep 21",
+      "doi": "10.23736/S2784-8671.26.08646-9",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers retrospectively analyzed 29 Vietnamese women with Fitzpatrick skin types III\u2013IV and mild to very severe melasma treated with three sessions of 1064 nm Nd:YAG picosecond laser at four-week intervals. Significant improvements were found in the Melasma Area and Severity Index (MASI), quality of life scores, and pigmentation indices, with VISIA imaging showing reductions in brown spots and surface spots. Notably, no cases of post-inflammatory hyperpigmentation (PIH) \u2014 a major risk of traditional laser and chemical treatments in darker skin \u2014 were documented, though mild erythema occurred in about half of participants.",
+      "why_it_matters": "Melasma is notoriously difficult to treat in darker skin tones due to the risk of PIH from conventional approaches, and early evidence that picosecond lasers may avoid this complication is significant for the millions of patients with Fitzpatrick types III\u2013VI who have limited safe treatment options.",
+      "caveats": "small sample (N<100), observational design, single-center, short follow-up, industry funding [El.En. Group], limited skin tone diversity in sample, retrospective design",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "High-relevance pigmentation topic for darker skin; very small retrospective sample, industry funding.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "A New Laser Treatment for Melasma Showed Zero Cases of Post-Inflammatory Hyperpigmentation in Darker Skin Tones",
+          "hook": "One of the biggest risks of treating melasma in darker skin is making it worse \u2014 but a small new study found a picosecond laser avoided that complication entirely.",
+          "pitch_angle": "In a retrospective analysis of 29 women with Fitzpatrick skin types III\u2013IV, three sessions of 1064 nm Nd:YAG picosecond laser significantly reduced melasma severity with no documented cases of PIH. Dermatologists note that while the sample is small and one co-author is affiliated with the device manufacturer, the findings add to growing evidence that picosecond technology may be safer than traditional lasers for treating pigmentation in melanin-rich skin."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42763356",
+      "headline": "Lichen sclerosus may not be purely autoimmune \u2014 the skin's microbiome could be driving it",
+      "journal": "Dermatology and Therapy",
+      "pubdate": "2026 Sep 19",
+      "doi": "10.1007/s13555-026-01923-7",
+      "groundbreaking": "Counterintuitive finding / Overturns prior research",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a narrative review synthesizing current evidence on skin, genital, and gut microbiome changes in lichen sclerosus (LS), a chronic fibrotic and inflammatory skin condition traditionally classified as autoimmune. Available studies consistently found alterations in microbial composition in LS patients, and the review proposes that dysbiosis may activate key immune pathways \u2014 including T-cell activation \u2014 contributing to the disease. The authors suggest mucosa-associated invariant T (MAIT) cells as a possible mechanistic link between microbial signals and immune dysregulation in LS, reframing the condition as a microbiome-modulated disorder rather than a purely autoimmune one.",
+      "why_it_matters": "If microbiome dysbiosis contributes to lichen sclerosus, this opens early-stage avenues for microbiome-targeted diagnostics and therapies for a condition that currently lacks a cure and causes significant discomfort and disfigurement.",
+      "caveats": "observational design, small sample (N<100) in underlying studies, narrative review only, short follow-up in source studies",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Intriguing conceptual shift for an underreported condition; narrative review limits strength.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Think a Common Skin Condition May Be Triggered by Microbiome Imbalance \u2014 Not Just the Immune System",
+          "hook": "Lichen sclerosus has long been treated as an autoimmune disease, but new research suggests the microbiome may play a bigger role than anyone realized.",
+          "pitch_angle": "A narrative review in Dermatology and Therapy synthesizes emerging evidence that microbial imbalances in the skin, genitals, and gut may activate immune pathways driving lichen sclerosus \u2014 a painful, scarring skin condition affecting women and girls disproportionately. Researchers say microbiome profiling could eventually offer new diagnostic and treatment tools for a condition with few satisfying options."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42781563",
+      "headline": "Math, not guesswork, may finally explain why hair grafts pop out during transplant surgery",
+      "journal": "Clinical, Cosmetic and Investigational Dermatology",
+      "pubdate": "2026",
+      "doi": "10.2147/CCID.S634017",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A single surgeon-researcher developed a theoretical biomechanical model \u2014 using force-vector decomposition, bevel-tip geometry, and tissue pressure dynamics \u2014 to explain 'graft popping,' the ejection of hair follicle grafts during sharp-implanter hair transplantation. No clinical or lab measurements were performed; the analysis is entirely mathematical. The model suggests that shallow insertion angles (like those used at the hairline) generate push-out forces approaching or exceeding 100% of axial insertion force, making graft popping at the hairline a predictable mechanical consequence rather than a random error.",
+      "why_it_matters": "If validated experimentally, this framework could help hair transplant surgeons systematically reduce graft loss during one of the most technically demanding steps of the procedure.",
+      "caveats": "small sample (N<100), theoretical/computational study only \u2014 no clinical or ex vivo data, single-center, industry funding [author holds patents and ownership interest in Seson Medical Company]",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Niche surgical procedure, theoretical model only, no clinical data, clear COI.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Hair Transplants Have a Frustrating Flaw \u2014 A Surgeon Used Physics to Explain It",
+          "hook": "Every hair transplant surgeon dreads graft popping \u2014 when a just-implanted follicle gets ejected from the scalp \u2014 and until now it was blamed on technique rather than geometry.",
+          "pitch_angle": "A new mathematical model suggests graft popping at the hairline isn't just human error but a predictable mechanical consequence of the shallow angles surgeons must use in that zone. The research is still theoretical, but it offers a blueprint for designing better tools and techniques."
+        }
+      ],
+      "run_date": "2026-09-26",
+      "category": "Dermatology",
+      "chunk": "1/2",
       "status": "new"
     },
     {
@@ -118,33 +346,6 @@
       "status": "new"
     },
     {
-      "pmid": "42781563",
-      "headline": "The physics of hair transplant 'graft popping' is finally mapped \u2014 and it explains why hairline placement is so tricky",
-      "journal": "Clinical, Cosmetic and Investigational Dermatology",
-      "pubdate": "2026 Sep 19",
-      "doi": "10.2147/CCID.S634017",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "A South Korean plastic surgeon developed a biomechanical mathematical model to explain why hair grafts sometimes pop out during sharp implanter transplantation, analyzing force vectors, bevel-tip geometry, scalp elasticity, and insertion angles. The study is entirely theoretical \u2014 no patients, tissue samples, or clinical measurements were involved. The model predicts that low insertion angles at the anterior hairline dramatically increase ejection forces, rising from ~25% push-out risk at perpendicular insertion to 90\u2013103% at 15-degree angles.",
-      "why_it_matters": "Understanding the mechanical forces behind graft popping could eventually guide surgeons toward technique adjustments that improve hair transplant outcomes \u2014 a procedure growing rapidly in popularity.",
-      "caveats": "animal or cell study, no ex vivo or clinical measurements, single-center, theoretical model only, industry funding [author holds patents and ownership interest in Seson Medical Company]",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Theoretical only; no clinical data; relevant to niche cosmetic procedure audience.",
-      "pitch_angles": [
-        {
-          "publication_type": "Allure / Byrdie",
-          "headline": "Hair Transplants Have a Graft-Popping Problem \u2014 A New Physics Model May Explain Why",
-          "hook": "A new biomechanical analysis suggests the angle at which hair follicles are inserted during transplantation may be a key reason grafts sometimes fail to stay put.",
-          "pitch_angle": "As hair transplants surge in popularity, a theoretical model finds that shallow insertion angles near the hairline generate forces that can literally eject grafts from the scalp \u2014 offering a potential mechanical explanation for a frustrating surgical complication. The findings are theoretical and await clinical validation, but they raise practical questions about technique that surgeons and patients considering hair restoration should know about."
-        }
-      ],
-      "run_date": "2026-09-25",
-      "category": "Dermatology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
       "pmid": "42759718",
       "headline": "Not all eczema drugs have the same carbon footprint \u2014 and the gap between them is significant",
       "journal": "Journal of the American Academy of Dermatology",
@@ -223,33 +424,6 @@
       "run_date": "2026-09-25",
       "category": "Dermatology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42775574",
-      "headline": "A smart hydrogel patch kills nearly all wound bacteria in diabetic mice \u2014 without overheating healthy tissue",
-      "journal": "Journal of Materials Chemistry B",
-      "pubdate": "2026 Sep 23",
-      "doi": "10.1039/d6tb00971a",
-      "groundbreaking": "First-in-class human study / Major skincare or skin health implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers engineered a hydrogel wound dressing combining MoS\u2082/ZnO nanostructures with a PVA/dextran scaffold to treat infected diabetic wounds; the material was tested in vitro and in a S. aureus-infected diabetic mouse model. Sustained zinc ion release weakened bacterial membranes, making pathogens vulnerable to mild heat (~50 \u00b0C) from near-infrared light \u2014 eliminating up to 98.98% of bacteria and reducing wound area to just 1.11% after 15 days. Histological analysis confirmed the dressing also promoted collagen deposition, re-epithelialization, and new blood vessel formation.",
-      "why_it_matters": "Diabetic wound infections are notoriously hard to treat without antibiotics, and this approach suggests a non-antibiotic, tissue-safe strategy that accelerates healing at multiple biological levels.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Wound healing relevance but animal/cell study only; no human data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "A New Bandage Material Wipes Out Drug-Resistant Wound Bacteria Using Light \u2014 No Antibiotics Needed",
-          "hook": "A hydrogel patch that uses gentle heat from light to kill nearly all bacteria in infected diabetic wounds could offer a new path forward for one of medicine's most stubborn problems.",
-          "pitch_angle": "Researchers combined zinc ions and light-activated nanoparticles in a wound dressing that sensitizes bacteria before destroying them with mild warmth \u2014 avoiding the tissue damage of high-heat treatments. So far it has only been tested in mice, but the approach targets collagen regrowth and blood vessel formation alongside infection clearance."
-        }
-      ],
-      "run_date": "2026-09-24",
-      "category": "Biochemistry",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -3018,33 +3192,6 @@
       ],
       "run_date": "2026-08-08",
       "category": "Allergy & Immunology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42566999",
-      "headline": "A hydrogel loaded with freeze-dried amniotic membrane proteins shows promise for wound healing \u2014 but human trials haven't started yet",
-      "journal": "Biochemical and Biophysical Research Communications",
-      "pubdate": "2026 Aug 4",
-      "doi": "10.1016/j.bbrc.2026.154373",
-      "groundbreaking": "Major skincare or skin health implication",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers in Iran developed a chitosan/HPMC/propylene glycol hydrogel incorporating lyophilized human amniotic membrane (hAM) particles \u2014 a strategy designed to deliver the growth factors and proteins in hAM while overcoming its fragility as a direct wound dressing. The optimized formulation demonstrated rapid gelation (under 10 minutes at body temperature), high swelling capacity, sustained protein release, antibacterial activity against both gram-positive and gram-negative bacteria, and greater than 85% viability in L929 fibroblast cells in vitro. No in vivo wound healing model or human study was conducted.",
-      "why_it_matters": "If validated in animal and clinical studies, a shelf-stable, amniotic membrane-loaded hydrogel dressing could offer a practical alternative for treating chronic wounds, including those seen in diabetic patients or post-procedure skin injuries.",
-      "caveats": "animal or cell study, single-center, short follow-up, no in vivo wound healing data yet, Iran single-institution study",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Skin wound healing relevance, but purely in vitro with no human or animal wound model data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Derm Review / General health",
-          "headline": "Could Freeze-Dried Placenta Proteins Be the Future of Wound Dressings?",
-          "hook": "A new hydrogel that packages the healing proteins of the human amniotic membrane into a stable, self-healing gel could one day change how chronic wounds are treated.",
-          "pitch_angle": "Researchers combined chitosan \u2014 already known for its antimicrobial properties \u2014 with lyophilized amniotic membrane particles to create a dressing that releases growth factors slowly and kills bacteria. Early lab data suggest the material is well-tolerated by skin fibroblasts, though in vivo and clinical studies are still needed before any clinical application."
-        }
-      ],
-      "run_date": "2026-08-08",
-      "category": "Biochemistry",
       "chunk": "1/2",
       "status": "new"
     },
