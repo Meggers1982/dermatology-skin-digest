@@ -1,39 +1,294 @@
 {
-  "last_updated": "2026-09-29T16:51:27.181573+00:00",
-  "total_studies": 268,
-  "new_this_run": 4,
+  "last_updated": "2026-10-01T17:06:13.282527+00:00",
+  "total_studies": 276,
+  "new_this_run": 8,
   "studies": [
     {
+      "pmid": "42810978",
+      "headline": "A rare syndrome that causes missing scalp skin at birth is actually a nerve cell disease \u2014 not a skin cell disease",
+      "journal": "The British Journal of Dermatology",
+      "pubdate": "2026 Sep 30",
+      "doi": "10.1093/bjd/ljag260",
+      "groundbreaking": "Overturns prior research / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This AI-assisted clinical and molecular review examined scalp-ear-nipple (SEN) syndrome, an ultra-rare autosomal dominant condition affecting approximately 30\u201350 confirmed cases worldwide, caused by mutations in the KCTD1 gene. The review synthesized current evidence on how faulty KCTD1 protein disrupts multiple developmental signaling pathways including Wnt, Hedgehog, and Notch. A key finding overturns previous understanding: the scalp skin defects (aplasia cutis congenita) in SEN syndrome arise from neural crest cell dysfunction rather than a primary keratinocyte (skin cell) defect, reclassifying SEN-associated scalp lesions as a neurocristopathy.",
+      "why_it_matters": "Reframing a visible skin birth defect as originating in nerve precursor cells rather than skin cells could reshape how rare developmental skin conditions are classified, researched, and potentially treated.",
+      "caveats": "small sample (N<100), observational design, animal or cell study",
+      "fact_check_note": "The abstract notes that the only paper reporting direct KCTD1\u2013\u03b2-catenin binding was retracted in 2022 for data integrity concerns; this important caveat about the Wnt mechanism is reflected in the summary.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Ultra-rare condition, no clinical or cosmetic application, very small confirmed case base.",
+      "pitch_angles": [
+        {
+          "publication_type": "General health",
+          "headline": "Scientists Discover That a Rare Scalp Birth Defect Starts in Nerve Cells, Not Skin Cells",
+          "hook": "New research overturns the assumed origin of a rare syndrome that causes babies to be born with patches of missing scalp skin \u2014 it's a nerve precursor cell problem, not a skin cell problem.",
+          "pitch_angle": "The finding reclassifies SEN syndrome as a neurocristopathy, meaning the scalp defect originates in neural crest cells \u2014 the same cells that form skull and facial structures \u2014 rather than in the skin itself. While the condition is extremely rare, the discovery illustrates how visible skin abnormalities can have origins far removed from the skin, with broader implications for how developmental skin disorders are understood."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42800559",
-      "headline": "Early hair loss in men may signal metabolic syndrome \u2014 not just genetics",
+      "headline": "Early hair loss in young men may be a warning sign of metabolic disease, not just genetics",
       "journal": "Journal of the American Academy of Dermatology",
       "pubdate": "2026 Sep 26",
       "doi": "10.1016/j.jaad.2026.09.084",
       "groundbreaking": "Major skincare or skin health implication / Counterintuitive finding",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective matched case-control study examining the relationship between metabolic syndrome and early-onset androgenetic alopecia (AGA), and developed a novel risk scoring system to quantify that association. The study population was drawn from a Korean academic medical center. Findings suggest that metabolic syndrome is associated with early-onset male pattern hair loss, positioning premature AGA as a potential visible marker of underlying cardiometabolic risk.",
-      "why_it_matters": "Early male pattern baldness may serve as a visible signal of metabolic health problems that go well beyond cosmetic concern.",
-      "caveats": "observational design, retrospective design, single-center, limited skin tone diversity in sample",
-      "fact_check_note": "Abstract does not report N or specific metabolic syndrome components; summary reflects only what is verifiable from the abstract. N unconfirmed \u2014 treat sample size as unverified.",
-      "relevance_score": 6,
-      "relevance_score_reason": "High-prevalence condition, practical hook, but retrospective single-center Korean sample limits generalizability.",
+      "summary": "Researchers conducted a retrospective matched case-control study examining the association between metabolic syndrome and early-onset androgenetic alopecia (AGA), also developing a novel risk scoring system. The study population was drawn from Seoul National University's Boramae Medical Center in South Korea. Findings suggest that metabolic syndrome components are significantly associated with early-onset AGA, indicating that premature hair loss may be a visible marker of underlying metabolic health risk rather than a purely cosmetic or genetic concern.",
+      "why_it_matters": "If early-onset hair loss is linked to metabolic syndrome, it suggests that young people experiencing premature baldness may benefit from metabolic health screening beyond standard hair loss treatment.",
+      "caveats": "retrospective design, observational design, single-center, limited skin tone diversity in sample",
+      "fact_check_note": "Abstract does not report N or specific effect sizes \u2014 these could not be verified and were not included in the summary.",
+      "relevance_score": 7,
+      "relevance_score_reason": "High-prevalence condition, counterintuitive systemic link, but single-center and retrospective.",
       "pitch_angles": [
         {
           "publication_type": "Women's Health / Health.com",
-          "headline": "Male Pattern Baldness Before 30 Could Be a Warning Sign of a Bigger Health Problem",
-          "hook": "New research suggests early hair loss in men isn't just cosmetic \u2014 it may flag serious metabolic issues hiding beneath the surface.",
-          "pitch_angle": "A matched case-control study found that early-onset androgenetic alopecia was associated with metabolic syndrome, a cluster of conditions including high blood pressure, elevated blood sugar, and abnormal cholesterol. Researchers even developed a risk scoring system, suggesting that a man's hairline could one day help identify those who need metabolic health screening earlier."
+          "headline": "Could Early Hair Loss Be a Red Flag for Metabolic Disease?",
+          "hook": "New research suggests that losing your hair young may signal more than just genetics \u2014 it could be tied to metabolic syndrome.",
+          "pitch_angle": "A Korean case-control study found a significant association between early-onset androgenetic alopecia and metabolic syndrome, suggesting premature hair thinning may function as a visible health warning. This reframes early hair loss not just as a cosmetic issue but as a potential prompt for broader metabolic health evaluation."
         },
         {
           "publication_type": "Allure / Byrdie",
-          "headline": "Is Hair Loss Actually a Metabolic Health Issue? New Research Says It Could Be",
-          "hook": "Scientists are rethinking the roots of male pattern baldness \u2014 and it turns out, your metabolism may be as much to blame as your genes.",
-          "pitch_angle": "A new retrospective study links early-onset androgenetic alopecia to metabolic syndrome, adding nuance to the long-held view that hair loss is purely hereditary. While the study was conducted in a Korean academic center and may not generalize broadly, it raises the possibility that treating hair loss without addressing metabolic health could be missing part of the picture."
+          "headline": "Science Says Early Balding Might Be About More Than Your Dad's Genes",
+          "hook": "Researchers found that young people with early hair loss were significantly more likely to have markers of metabolic syndrome \u2014 and built a scoring tool to assess risk.",
+          "pitch_angle": "The study challenges the assumption that androgenetic alopecia in young adults is purely hereditary, linking it instead to metabolic health factors like blood pressure, blood sugar, and lipid levels. For beauty editors covering hair health, this opens a conversation about hair loss as a whole-body health signal, not just a scalp issue."
         }
       ],
-      "run_date": "2026-09-29",
+      "run_date": "2026-10-01",
       "category": "Dermatology",
       "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42430810",
+      "headline": "A new topical compound targeting the cGAS-STING immune pathway eased psoriasis-like skin lesions in mice as effectively as an approved cream",
+      "journal": "Bioorganic & Medicinal Chemistry",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.bmc.2026.118749",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers designed and synthesized 40 aryl urea derivatives as inhibitors of the cGAS-STING inflammatory signaling pathway and tested the lead compound W23 in an imiquimod-induced psoriasis mouse model. W23 applied topically reduced psoriatic skin lesions and cutaneous inflammation comparably to benvitimod cream, a commercially approved psoriasis treatment. The study is preclinical \u2014 mouse model only \u2014 and no human testing was conducted.",
+      "why_it_matters": "Psoriasis affects millions of people and current topical options have limitations, so a new class of STING inhibitors that works through a different immune mechanism than existing treatments could eventually expand options \u2014 though human evidence is still needed.",
+      "caveats": "animal or cell study, small sample (N<100)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Psoriasis-relevant mechanism and topical application, but mouse model only; no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "A New Drug Target in the Immune System Could Lead to Better Psoriasis Creams",
+          "hook": "Scientists found that blocking a key inflammatory immune pathway with a topical compound reduced psoriasis-like lesions in mice as effectively as an existing approved treatment.",
+          "pitch_angle": "The compound W23 targets the cGAS-STING pathway \u2014 an immune signaling route increasingly linked to inflammatory skin diseases \u2014 and outperformed expectations in a mouse model of psoriasis. While human trials are far off, the finding suggests STING inhibition could be a meaningful new direction for psoriasis skincare science."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Biochemistry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42595493",
+      "headline": "A radiation-altered plant compound programs immune cells to calm inflammation \u2014 and it works differently from its parent molecule",
+      "journal": "Immunopharmacology and Immunotoxicology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1080/08923973.2026.2713463",
+      "groundbreaking": "Counterintuitive finding / First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers exposed the plant flavonoid wogonin to radiation to create a novel derivative called wogoniol, then tested its effects on immune cells in laboratory culture systems. Using mouse bone marrow-derived dendritic cells and DC-T cell co-cultures, they found wogoniol \u2014 unlike its parent compound \u2014 selectively suppressed pro-inflammatory signals (TNF-\u03b1, IL-12p70, Th1/Th17 responses) while strongly promoting regulatory T cells (Tregs) at a potency comparable to dexamethasone. The parent compound wogonin nonspecifically suppressed both pro- and anti-inflammatory cytokines, making the derivative's targeted tolerogenic profile a potentially meaningful distinction.",
+      "why_it_matters": "For skin conditions driven by Th1/Th17 immune imbalance \u2014 including psoriasis, atopic dermatitis, and alopecia areata \u2014 this early evidence suggests radiation-modified plant compounds could offer a more precise route to immune tolerance than existing options.",
+      "caveats": "animal or cell study, small sample (N<100), short follow-up, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Mechanistically relevant to skin immune conditions but cell/mouse study only; no human or skin data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Tweaked a Plant Compound With Radiation \u2014 and It May Calm the Immune Responses Behind Eczema and Psoriasis",
+          "hook": "A radiation-altered derivative of a herb used in traditional medicine may target the exact immune pathways that drive inflammatory skin diseases \u2014 without the broad immune suppression of steroids.",
+          "pitch_angle": "Wogoniol, created by exposing the plant flavonoid wogonin to radiation, selectively quieted the Th1 and Th17 immune arms linked to psoriasis and atopic dermatitis while boosting regulatory T cells in lab studies. Though still early-stage cell research, the finding highlights a new strategy for developing more precise anti-inflammatory treatments for chronic skin conditions."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Allergy & Immunology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42025493",
+      "headline": "Two newly discovered cockroach proteins trigger allergic reactions in more than half of cockroach-sensitive patients",
+      "journal": "Allergology International",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.alit.2026.03.007",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers cloned and characterized two previously unknown allergen proteins \u2014 aldolase (Per a 21) and pyruvate kinase (Per a 22) \u2014 from the American cockroach (Periplaneta americana). Testing serum from 77 cockroach-allergic patients, they found IgE reactivity in 62\u201371% of individuals for these proteins, and together the two allergens were recognized by 83% of cockroach-IgE-positive sera. The findings expand the known cockroach allergen repertoire and could improve molecular allergy testing panels used to diagnose cockroach sensitization.",
+      "why_it_matters": "Cockroach allergen exposure is a major driver of allergic skin and respiratory reactions \u2014 particularly in urban environments \u2014 and more complete allergen panels could lead to better diagnosis and targeted immunotherapy for sensitized individuals.",
+      "caveats": "small sample (N<100), single-center, limited skin tone diversity in sample",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Allergy/immunology relevance; small sample; no direct skin outcome measured.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Just Found Two New Cockroach Allergens \u2014 And They May Be Behind Mystery Allergic Reactions",
+          "hook": "More than 60% of cockroach-allergic patients reacted to newly identified proteins that weren't even on the allergen testing radar until now.",
+          "pitch_angle": "Researchers identified two metabolic enzymes in American cockroaches that provoke IgE immune responses in the majority of cockroach-sensitive patients, suggesting current allergy panels may be missing key triggers. For people in urban apartments dealing with unexplained or hard-to-control allergic symptoms \u2014 including skin reactions like hives \u2014 this research suggests more comprehensive cockroach allergen testing could eventually improve diagnosis."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Allergy & Immunology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42814516",
+      "headline": "Scientists synthesize a rare hyaluronidase-blocking compound that could protect the skin's own hyaluronic acid",
+      "journal": "Chemistry & Biodiversity",
+      "pubdate": "2026 Oct",
+      "doi": "10.1002/cbdv.71738",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers reported the first total chemical synthesis of shimobashiric acid C (SBA-C), a natural compound previously noted for potent hyaluronidase inhibition but nearly impossible to extract from nature at useful quantities (natural yield: 0.0092%). The seven-step synthesis achieved a 35% overall yield using caffeic and rosmarinic acid as starting materials. The study is a chemistry proof-of-concept; no skin or biological testing of the synthesized compound was reported.",
+      "why_it_matters": "Hyaluronidase breaks down the skin's natural hyaluronic acid, so a compound that reliably inhibits this enzyme \u2014 now made accessible through synthesis \u2014 could be of interest as a future topical ingredient for hydration and anti-aging.",
+      "caveats": "animal or cell study, small sample (N<100)",
+      "fact_check_note": "Abstract does not report any biological testing of the synthesized SBA-C; the hyaluronidase inhibition claim refers to prior literature characterization of the natural compound, not this study's experimental output.",
+      "relevance_score": 4,
+      "relevance_score_reason": "Skin-adjacent via hyaluronidase inhibition but no biological skin testing conducted.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "Scientists Just Figured Out How to Make More of a Compound That Protects Your Skin's Hyaluronic Acid",
+          "hook": "A rare natural molecule that blocks the enzyme responsible for breaking down the skin's own hyaluronic acid can now be made in the lab at useful quantities for the first time.",
+          "pitch_angle": "Shimobashiric acid C was already known to powerfully inhibit hyaluronidase \u2014 the enzyme that degrades hyaluronic acid in skin \u2014 but it was almost impossible to extract from plants. A new synthesis route changes that, though rigorous skin testing in humans is still needed before it could appear in a product."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Biochemistry",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42808945",
+      "headline": "AI skin cancer tools trained mostly on light skin are missing melanoma in darker-skinned patients \u2014 and may be flagging the wrong lesions",
+      "journal": "International Journal of Dermatology",
+      "pubdate": "2026 Oct",
+      "doi": "10.1111/ijd.70535",
+      "groundbreaking": "Major skincare or skin health implication / Counterintuitive finding",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This review examined the epidemiological, diagnostic, and therapeutic disparities in melanoma affecting people with skin of color (Fitzpatrick types IV\u2013VI), with particular focus on acral lentiginous and mucosal melanoma subtypes prevalent in non-Hispanic Black patients. The authors also assessed the performance limitations of AI-based diagnostic tools, which have been trained predominantly on lighter skin tone datasets. Key findings indicate that while skin of color patients have lower melanoma incidence, they face higher fatality rates due to later-stage diagnosis, biologically distinct tumor subtypes that respond less to standard therapies, and AI tools with diminished accuracy in these populations \u2014 alongside emerging concern about melanoma overdiagnosis across all groups.",
+      "why_it_matters": "The gap in AI diagnostic accuracy for darker skin tones, combined with biologically distinct melanoma subtypes in these populations, means current screening and detection tools may systematically fail the patients who already face the worst outcomes.",
+      "caveats": "observational design, limited skin tone diversity in sample",
+      "fact_check_note": "",
+      "relevance_score": 8,
+      "relevance_score_reason": "Critical equity gap in melanoma detection; AI bias directly relevant to skin health outcomes.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie / Vogue",
+          "headline": "Skin Cancer AI Was Built for White Skin \u2014 and That's Putting Darker-Skinned Patients at Risk",
+          "hook": "A new review finds that AI tools designed to detect melanoma perform poorly on darker skin tones because they were trained almost exclusively on images of light skin.",
+          "pitch_angle": "The review highlights that melanoma in people with skin of color often appears in non-sun-exposed areas like the palms and soles, making it harder to detect with tools calibrated for UV-related lesions on lighter skin. Combined with a higher fatality rate despite lower incidence, this research underscores an urgent equity gap in dermatological AI that beauty and health media are positioned to spotlight."
+        },
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "People With Darker Skin Die From Melanoma at Higher Rates \u2014 New Research Points to a Systemic Detection Failure",
+          "hook": "Despite a lower overall risk of melanoma, Black patients and other people of color are significantly more likely to die from it \u2014 and AI diagnostic tools may be making the problem worse.",
+          "pitch_angle": "A Mayo Clinic review found that melanoma in skin of color frequently involves subtypes that don't follow typical sun-exposure patterns and don't respond as well to standard treatments, while AI screening tools trained on predominantly white datasets have reduced accuracy in these populations. The authors call for diversified AI training data, culturally tailored education, and decentralized clinical trials to close these gaps."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42571265",
+      "headline": "Severe drug-related skin reactions shifted in type and trigger during and after COVID-19",
+      "journal": "JAAD International",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jdin.2026.06.006",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective multicenter analysis of 794 cases of severe cutaneous adverse drug reactions (SCARs) across Shandong, China, spanning the periods before, during, and after the COVID-19 pandemic. The study tracked shifts in reaction types and causative drugs across these time periods. Findings suggest that the pandemic era was associated with changes in the pattern and triggers of life-threatening skin drug reactions, likely reflecting altered prescribing practices and new drug exposures during COVID-19 treatment.",
+      "why_it_matters": "Understanding how pandemic-era medications shifted the landscape of severe drug-related skin reactions could help clinicians and patients recognize early warning signs tied to newer or repurposed drugs.",
+      "caveats": "observational design, single-center region (Shandong, China), retrospective design, limited skin tone diversity in sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Clinically relevant SCARs topic; retrospective, single-region Chinese cohort limits generalizability.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "COVID-Era Drugs Changed the Face of Dangerous Skin Reactions \u2014 Here's What Researchers Found",
+          "hook": "A large multicenter study found that the types and triggers of life-threatening skin drug reactions shifted measurably during and after the COVID-19 pandemic.",
+          "pitch_angle": "Researchers tracked nearly 800 severe drug-related skin reaction cases across a decade and found pandemic-era prescribing patterns appear to have altered what drugs are most likely to cause these dangerous events, with implications for anyone taking newer or repurposed medications."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42541255",
+      "headline": "Eczema, dandruff, and contact dermatitis are set to surge globally by 2050 \u2014 and some regions are catching up fast",
+      "journal": "JAAD International",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jdin.2026.06.016",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers analyzed the disease burden of atopic dermatitis, seborrheic dermatitis, and contact dermatitis across G20 countries from 1990 to 2023, then modeled projections through 2050. The study drew on population-level epidemiological data to identify trends by country and region. Findings suggest that the combined burden of these three common dermatitis types is projected to increase substantially across G20 nations over the coming decades, with variation in trajectory by country.",
+      "why_it_matters": "With eczema and contact dermatitis already affecting hundreds of millions worldwide, these projections signal a growing public health and skincare challenge that will likely shape both dermatology care and the cosmetic industry in the decades ahead.",
+      "caveats": "observational design, secondary analysis, modeled projections carry inherent uncertainty",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "High-prevalence conditions, global scope, strong practical hook; projection data adds uncertainty.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "Eczema and Contact Dermatitis Are Getting More Common \u2014 And It's Only Going to Get Worse by 2050",
+          "hook": "A new global analysis projects that three of the most common skin rashes \u2014 eczema, seborrheic dermatitis, and contact dermatitis \u2014 will affect significantly more people across major economies by 2050.",
+          "pitch_angle": "Researchers tracking disease burden across G20 countries found these conditions have risen steadily since 1990 and show no sign of slowing, suggesting that demand for effective barrier-repair skincare and allergen-awareness will only intensify in the years ahead."
+        },
+        {
+          "publication_type": "Women's Health / Prevention",
+          "headline": "Why Skin Rashes Are Becoming a Global Health Crisis \u2014 and What It Means for You",
+          "hook": "New research projecting dermatitis trends through 2050 finds that eczema and related skin conditions are on track to become an even larger burden on healthcare systems worldwide.",
+          "pitch_angle": "The study covering G20 nations from 1990 to 2023 found rising rates of atopic, seborrheic, and contact dermatitis, pointing to environmental, lifestyle, and demographic factors as likely drivers \u2014 and underscoring why skin-barrier health is becoming a mainstream public health concern."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42541273",
+      "headline": "Women with genital warts get different treatments depending on which type of doctor they see \u2014 and their zip code",
+      "journal": "JAAD International",
+      "pubdate": "2026 Oct",
+      "doi": "10.1016/j.jdin.2026.06.017",
+      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers at Tufts University examined how condyloma acuminata (genital warts caused by HPV) is managed in female patients across different medical specialties and sociodemographic groups. The study found that treatment approach varied significantly depending on whether patients were seen by dermatologists, gynecologists, or other providers. Sociodemographic factors \u2014 including factors associated with race, income, or geography \u2014 were also associated with differences in care received.",
+      "why_it_matters": "Disparities in how a common, skin-affecting STI is treated depending on who you see and where you live highlights a gap in equitable dermatological and sexual health care for women.",
+      "caveats": "small sample (N<100 not confirmed but short letter format suggests limited N), single-center, observational design, limited skin tone diversity in sample not confirmed",
+      "fact_check_note": "Abstract does not specify sample size or exact sociodemographic variables; caveats reflect letter-format publication limitations.",
+      "relevance_score": 5,
+      "relevance_score_reason": "Skin-relevant HPV condition; disparities angle is compelling but limited detail in abstract.",
+      "pitch_angles": [
+        {
+          "publication_type": "Women's Health / Health.com",
+          "headline": "Which Doctor You See for Genital Warts Could Determine the Treatment You Get \u2014 New Research Explains Why",
+          "hook": "A new study found that women with genital warts receive meaningfully different treatments depending on whether they see a dermatologist, gynecologist, or another type of provider \u2014 and sociodemographic factors play a role too.",
+          "pitch_angle": "The findings suggest that care for this common HPV-related skin condition is not standardized across specialties, and that a woman's background or location may influence the treatment she's offered \u2014 raising questions about consistency and equity in sexual and dermatological health care."
+        }
+      ],
+      "run_date": "2026-10-01",
+      "category": "Dermatology",
+      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -5202,33 +5457,6 @@
       "run_date": "2026-07-13",
       "category": "Dermatology",
       "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42430810",
-      "headline": "A new topical STING inhibitor calms psoriatic skin inflammation in mice as effectively as a commercial cream",
-      "journal": "Bioorganic & Medicinal Chemistry",
-      "pubdate": "2026 Jul 7",
-      "doi": "10.1016/j.bmc.2026.118749",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not verified \u2014 SERPAPI unavailable",
-      "summary": "Researchers synthesized 40 novel aryl urea derivatives designed to inhibit the cGAS-STING inflammatory signaling pathway and screened them for activity. Lead compound W23 potently blocked STING and its downstream signaling in cell studies. When applied topically in an imiquimod-induced psoriasis mouse model, W23 reduced skin lesions and cutaneous inflammation with efficacy comparable to benvitimod, a commercially available psoriasis cream.",
-      "why_it_matters": "Psoriasis affects millions globally, and targeting the cGAS-STING immune pathway with a topical agent represents a mechanistically novel approach that could complement or offer alternatives to existing topical therapies.",
-      "caveats": "animal or cell study, single-center",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Psoriasis relevance and novel immune mechanism; limited by animal-only data.",
-      "pitch_angles": [
-        {
-          "publication_type": "The Derm Review",
-          "headline": "A new topical compound targeting an inflammation-driving immune pathway matches a commercial psoriasis cream in mouse models",
-          "hook": "A novel compound that blocks the cGAS-STING inflammatory pathway \u2014 applied directly to skin \u2014 reduced psoriatic lesions in mice as effectively as a market-available cream.",
-          "pitch_angle": "The cGAS-STING pathway drives the runaway immune activation underlying psoriatic flares, and researchers have now found a small-molecule inhibitor that can be delivered topically to quiet that response. While still in animal models, the head-to-head comparison with benvitimod cream positions this as a compelling candidate for future clinical development in psoriasis."
-        }
-      ],
-      "run_date": "2026-07-13",
-      "category": "Biochemistry",
-      "chunk": "1/2",
       "status": "new"
     },
     {
