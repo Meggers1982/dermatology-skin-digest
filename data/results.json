@@ -1,38 +1,260 @@
 {
-  "last_updated": "2026-10-14T14:57:43.740692+00:00",
-  "total_studies": 328,
+  "last_updated": "2026-10-15T14:43:05.353257+00:00",
+  "total_studies": 332,
   "new_this_run": 4,
   "studies": [
     {
+      "pmid": "42850963",
+      "headline": "Penile pre-cancer routinely masquerades as common skin conditions, causing dangerous diagnostic delays",
+      "journal": "Clinical and Experimental Dermatology",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1093/ced/llag439",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers conducted a retrospective case series of 13 patients with histopathologically confirmed penile intraepithelial neoplasia (PeIN) seen at a Melbourne sexual health centre between 2018 and 2025. Lesions were highly variable in appearance \u2014 including red or white plaques, wart-like growths, erosions, and ulcers \u2014 and frequently mimicked inflammatory dermatoses such as lichen sclerosus or genital warts. All cases were HPV-associated, most involved uncircumcised patients, and several had co-existing immune suppression or inflammatory skin disease, with diagnosis often delayed until lesions persisted or failed to respond to empiric treatment.",
+      "why_it_matters": "The study suggests that persistent or unusual genital skin lesions that don't resolve with standard treatment may warrant earlier dermatological biopsy to rule out a precancerous condition that is frequently mistaken for common inflammatory or infectious skin conditions.",
+      "caveats": "small sample (N<100), observational design, single-center, retrospective case series, limited skin tone diversity in sample",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Dermatology-relevant but very small case series; limited broad skincare audience appeal.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "This Skin Condition on the Penis Is Often Mistaken for a Wart or Rash \u2014 and That Delay Can Be Dangerous",
+          "hook": "A precancerous penile skin condition that can look exactly like a common rash, wart, or inflammation is being routinely misdiagnosed, according to new research.",
+          "pitch_angle": "Australian dermatologists found that penile intraepithelial neoplasia \u2014 an HPV-linked precursor to penile cancer \u2014 presented with such varied appearances that it was frequently confused with lichen sclerosus, genital warts, or other inflammatory skin conditions. The finding highlights a critical gap in awareness: persistent genital skin changes that don't clear up with usual treatments may need a biopsy, not just another round of topical therapy."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Dermatology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
       "pmid": "42848179",
-      "headline": "Common antibiotic shot for recurring skin infections may only protect for two weeks \u2014 not the assumed month",
+      "headline": "The antibiotic shot used to prevent repeat skin infections may only protect for two weeks \u2014 not the full month doctors assumed",
       "journal": "Infection",
       "pubdate": "2026 Oct 8",
       "doi": "10.1007/s15010-026-03008-1",
       "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
       "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers conducted a retrospective observational study of 73 patients (592 patient-years) who received benzathine penicillin G (BPG) injections to prevent recurring cellulitis, a common bacterial skin infection. Using time-varying Cox regression to test different assumed protective windows, they found that BPG's protection was statistically significant only within the first 14 days after injection, not at 21 or 28 days as often assumed. Crucially, 43% of recurrences in the weeks following injection happened between days 15 and 28, suggesting many patients were left unprotected under standard dosing intervals.",
-      "why_it_matters": "For anyone prone to recurring cellulitis \u2014 a painful, potentially serious skin infection \u2014 this finding suggests that the standard injection schedule may leave a significant gap in protection that patients and clinicians may not be aware of.",
-      "caveats": "small sample (N<100), observational design, retrospective, single-center, limited skin tone diversity in sample",
+      "summary": "Researchers retrospectively analyzed 592 patient-years of data from 73 patients receiving intramuscular benzathine penicillin G (BPG) for recurrent cellulitis, a common bacterial skin infection, to determine how long each injection actually protects against relapse. The study found that cellulitis recurrence rates were significantly lower only within the first 14 days after injection \u2014 not the 21- or 28-day windows clinicians have often assumed. Notably, 43% of recurrences occurring within 10 weeks of a shot happened between days 15 and 28, suggesting the protective window closes far sooner than current dosing intervals reflect.",
+      "why_it_matters": "For the millions of people who suffer from recurrent cellulitis \u2014 a painful and sometimes serious bacterial skin infection \u2014 this finding suggests that the spacing of preventive antibiotic injections may need to be rethought to keep the protective window continuous.",
+      "caveats": "small sample (N<100), observational design, single-center, retrospective analysis, limited skin tone diversity in sample",
       "fact_check_note": "",
       "relevance_score": 7,
-      "relevance_score_reason": "Skin infection relevance, practical clinical hook, but small retrospective sample limits confidence.",
+      "relevance_score_reason": "Counterintuitive finding on common skin condition; small retrospective sample limits confidence.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / Prevention / General health",
+          "headline": "The Shot That's Supposed to Stop Recurring Skin Infections May Wear Off Twice as Fast as Doctors Thought",
+          "hook": "A new study finds that benzathine penicillin G \u2014 the go-to preventive injection for recurrent cellulitis \u2014 may only protect for about two weeks, not the full month many physicians assume.",
+          "pitch_angle": "Researchers tracked 73 patients over nearly 600 patient-years and found that nearly half of all relapses within 10 weeks of a shot happened between days 15 and 28, after the protective window had apparently closed. For anyone who has dealt with repeat bouts of cellulitis, this research suggests that how often the injection is given may matter as much as whether it's given at all."
+        },
+        {
+          "publication_type": "Women's Health Magazine",
+          "headline": "Recurrent Skin Infections Keep Coming Back? The Problem Might Be Your Injection Schedule",
+          "hook": "Cellulitis is one of the most common reasons people end up in the ER with a skin emergency \u2014 and the antibiotic shot meant to stop it from returning may not last as long as previously thought.",
+          "pitch_angle": "A Korean retrospective study of 73 patients found that benzathine penicillin G's protective effect against repeat cellulitis drops off significantly after just 14 days, challenging the assumption that monthly dosing is adequate. The findings raise the question of whether more frequent injections \u2014 not just consistent ones \u2014 could better protect people prone to this painful, recurring skin infection."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Allergy & Immunology",
+      "chunk": "1/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42870577",
+      "headline": "Microplastics Are Inside Human Tissues \u2014 But Science Still Can't Tell Us Exactly What That Means",
+      "journal": "Journal of Materials Chemistry B",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1039/d6tb01482h",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers reviewed the current state of microplastic (MP) toxicology research, noting that MPs have been detected in multiple human tissues but their precise health effects remain poorly understood. The review critiques existing 2D cell culture and animal models for using unrealistically high doses and short exposure durations that don't reflect real human exposure. The authors argue that organ-on-a-chip (OoC) platforms \u2014 3D microfluidic systems mimicking human organ physiology \u2014 offer a more accurate way to study how MPs interact with human cells and tissues over time.",
+      "why_it_matters": "As microplastics turn up in human skin, blood, and organs, understanding how they actually damage tissue \u2014 including skin \u2014 could eventually reshape both environmental health guidelines and skincare formulation safety standards.",
+      "caveats": "animal or cell study, review article (no original data), no human subjects studied",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Review with no original data; indirect skin relevance; no human trial.",
       "pitch_angles": [
         {
           "publication_type": "Health.com / General health",
-          "headline": "Your Recurring Cellulitis Shot May Only Work for Two Weeks \u2014 Not a Month",
-          "hook": "A common antibiotic injection used to prevent recurring cellulitis may leave patients unprotected for half the time between doses, new research suggests.",
-          "pitch_angle": "A retrospective study found that benzathine penicillin G's protective effect against recurrent cellulitis appeared to wear off after just 14 days \u2014 not the 21\u201328 days many clinicians assume \u2014 meaning the dosing gap could be leaving patients vulnerable to painful flare-ups."
-        },
-        {
-          "publication_type": "Prevention / First for Women",
-          "headline": "If You Keep Getting Skin Infections, Your Treatment Schedule Might Be Off",
-          "hook": "Nearly half of all cellulitis recurrences in this study happened in the two-week window when patients were supposed to still be protected.",
-          "pitch_angle": "New research on a widely used preventive antibiotic injection suggests its protection against recurring skin infections fades faster than expected, raising questions about whether current dosing schedules are optimally timed for people dealing with repeated bouts of cellulitis."
+          "headline": "Microplastics Are Showing Up in Human Tissues \u2014 Here's Why Scientists Still Can't Tell You How Worried to Be",
+          "hook": "Microplastics have been found in human skin, blood, and organs \u2014 but the tools scientists use to study them may be too crude to tell us what that actually means for our health.",
+          "pitch_angle": "A new review argues that current lab models of microplastic toxicity use unrealistically high doses that don't reflect real-world exposure, making conclusions murky. Next-generation organ-on-a-chip technology may finally give researchers the precision needed to understand whether \u2014 and how \u2014 microplastics damage human tissue, including skin."
         }
       ],
-      "run_date": "2026-10-14",
-      "category": "Allergy & Immunology",
+      "run_date": "2026-10-15",
+      "category": "Biochemistry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42775574",
+      "headline": "A light-activated hydrogel dressing wipes out nearly all bacteria in diabetic wounds \u2014 without burning healthy tissue",
+      "journal": "Journal of Materials Chemistry B",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1039/d6tb00971a",
+      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers engineered a hydrogel dressing combining molybdenum disulfide (MoS2) and zinc ions embedded in a polymer network, then tested it in a diabetic mouse model of bacterial wound infection. The hydrogel uses a 'sensitize-then-attack' strategy: zinc ions weaken bacterial membranes first, allowing mild heat (around 50\u00b0C) from near-infrared light to finish off pathogens that would normally survive at that temperature. The dressing eliminated 97\u201399% of E. coli and S. aureus in lab tests and reduced bacterial load by 98% in mice, while also promoting collagen deposition and new blood vessel formation without damaging surrounding tissue.",
+      "why_it_matters": "This research suggests it may be possible to clear chronic wound infections using light-activated materials rather than antibiotics \u2014 a finding with potential implications for the large population of people living with hard-to-heal diabetic skin wounds.",
+      "caveats": "animal or cell study",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Diabetic wound healing relevance; animal-only study limits score significantly.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "A Smart Wound Dressing That Uses Light to Kill Bacteria Could Change How Diabetic Skin Wounds Are Treated",
+          "hook": "A new hydrogel dressing activated by near-infrared light wiped out nearly all bacteria in infected diabetic wounds in mice \u2014 without harming healthy skin around it.",
+          "pitch_angle": "Scientists found that pre-weakening bacteria with zinc ions before applying mild heat made the pathogens vulnerable enough to be destroyed at temperatures safe for surrounding tissue. Early animal research suggests this 'sensitize-then-attack' approach could offer a non-antibiotic path forward for chronic diabetic wounds, which affect millions of people and are notoriously difficult to heal."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Biochemistry",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42873516",
+      "headline": "A widely cited study on eczema triggered by psoriasis biologics contains numerical errors \u2014 here's what was wrong",
+      "journal": "JAMA Dermatology",
+      "pubdate": "2026 Oct 14",
+      "doi": "10.1001/jamadermatol.2026.4172",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "A letter published in JAMA Dermatology identifies errors in incidence rates and other numerical data reported in a prior study examining paradoxical eczema occurring in patients receiving biologic therapies for psoriasis. The correspondence, authored by a researcher at the University of Manchester, flags specific miscalculations that may affect the study's conclusions. No new patient data were analyzed; this is a methodological critique of previously published findings.",
+      "why_it_matters": "If the incidence rates of biologic-triggered paradoxical eczema were miscalculated, clinicians and patients weighing biologic therapy for psoriasis may be working from inaccurate risk estimates.",
+      "caveats": "secondary analysis, small sample (N<100)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Important correction but no new data; limited direct pitch hook for consumer outlets.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "A Key Statistic About a Surprising Side Effect of Psoriasis Biologics May Have Been Wrong All Along",
+          "hook": "Researchers are flagging numerical errors in a study that estimated how often psoriasis biologic drugs trigger a paradoxical flare of eczema.",
+          "pitch_angle": "A published correction suggests the risk figures quoted for this counterintuitive side effect \u2014 eczema appearing in patients treated for psoriasis \u2014 may be off, raising questions about how patients and doctors weigh the risks of biologic therapy."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42869312",
+      "headline": "A century of dermatology condensed: how 100 years of discoveries transformed skin disease from incurable to manageable",
+      "journal": "Clinics in Dermatology",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1016/j.clindermatol.2026.10.005",
+      "groundbreaking": "Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "This narrative review traces landmark therapeutic advances in dermatology over the past century, covering infectious, inflammatory, autoimmune, vascular, and oncologic skin diseases. Authors highlight pivotal treatments \u2014 from penicillin for syphilis and isotretinoin for acne to biologics for psoriasis, immunotherapy for melanoma, and Hedgehog inhibitors for basal cell carcinoma \u2014 and how each shifted the standard of care. The piece frames dermatology's evolution from empiric, often toxic treatments toward mechanism-based precision therapies.",
+      "why_it_matters": "Understanding how dermatology's biggest treatment milestones unfolded helps contextualize today's wave of biologics and targeted therapies for conditions like eczema, psoriasis, and skin cancer.",
+      "caveats": "observational design",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Strong narrative arc but review article; no new data; moderate pitch hook.",
+      "pitch_angles": [
+        {
+          "publication_type": "Vogue / General health",
+          "headline": "From Arsenic Creams to Gene-Targeted Biologics: Dermatology's 100-Year Glow-Up",
+          "hook": "A century ago, severe acne, psoriasis, and skin cancer had almost no effective treatments \u2014 a sweeping new review charts exactly how science changed that.",
+          "pitch_angle": "The review traces the pivot points that redefined skin medicine, from the accidental discovery that beta-blockers shrink infantile birthmarks to the biologic revolution that put psoriasis into remission \u2014 offering a useful lens for readers navigating today's crowded treatment landscape."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42870205",
+      "headline": "A topical lotion helped a child with a debilitating rare skin disease sleep through the night for the first time \u2014 here's the science behind it",
+      "journal": "Dermatology and Therapy",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1007/s13555-026-01948-y",
+      "groundbreaking": "First-in-class human study / Major skincare or skin health implication",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers describe the mechanism behind QRX003, an investigational topical lotion containing DiPalmitoyl HydroxyProline (DPHP), a serine protease inhibitor designed to compensate for the LEKTI deficiency that drives Netherton syndrome \u2014 a severe genetic skin disorder causing uncontrolled skin shedding, inflammation, and intense itch. A single pediatric patient received QRX003 on a compassionate-use basis for 21 months, showing improvements in itching, redness, and skin fissuring within 6 weeks; the patient was also able to discontinue antihistamines, corticosteroids, and antiviral medications. No treatment-related adverse events were reported, though worsening occurred during a treatment interruption, suggesting a possible drug-associated effect.",
+      "why_it_matters": "For the estimated 1-in-150,000 children born with Netherton syndrome \u2014 currently without any approved treatment \u2014 this early case report suggests a mechanism-informed topical therapy may be able to address the root cause of the disease rather than just its symptoms.",
+      "caveats": "small sample (N<100), single-center, short follow-up, industry funding [Quoin Pharmaceuticals \u2014 two authors are employees and stockholders]",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Compelling rare-disease human case; strong quality-of-life hook; industry conflict notable.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "A Child With a Rare, Painful Skin Disease Finally Slept Through the Night \u2014 Thanks to an Experimental Lotion",
+          "hook": "A pediatric patient with Netherton syndrome \u2014 a genetic condition causing the skin to constantly shed and inflame \u2014 showed sustained symptom relief after 21 months on an investigational topical lotion.",
+          "pitch_angle": "QRX003 works by blocking the out-of-control enzymes that cause premature skin shedding in Netherton syndrome, representing a shift from managing symptoms to targeting the underlying mechanism \u2014 and early compassionate-use data, while limited to a single patient, suggest it may allow children to reduce or stop other medications entirely."
+        },
+        {
+          "publication_type": "Prevention / Women's Health",
+          "headline": "Scientists Are Testing a Lotion That Targets the Root Cause of One of the Most Painful Skin Diseases in Children",
+          "hook": "Netherton syndrome leaves children with skin so fragile and itchy that sleep is nearly impossible \u2014 and right now there are no approved treatments.",
+          "pitch_angle": "An investigational topical therapy, QRX003, is designed to replace the missing protein that normally keeps skin-shedding enzymes in check; one child treated for nearly two years was able to stop taking antihistamines, steroids, and antivirals \u2014 findings that, while very early and from a single case, point to a new direction for rare genetic skin diseases."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42862834",
+      "headline": "A yeast-derived ingredient activates an anti-aging protein in skin cells \u2014 but so far only in the lab",
+      "journal": "Skin Pharmacology and Physiology",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1159/spp/aetag015",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers tested a proprietary hydrolyzed yeast protein extract (HYPE) across a series of in vitro experiments using normal human epidermal keratinocytes, dermal fibroblasts, and a 3D skin model with melanocytes. HYPE was found to activate SIRT6 \u2014 an epigenetic regulator linked to cellular aging \u2014 in all three cell types, reduce UVB-triggered DNA damage and inflammation in keratinocytes, slow telomere shortening in fibroblasts, and decrease melanin production in the 3D model. All findings are from cell and lab-model studies; no human clinical trial was conducted.",
+      "why_it_matters": "Early lab evidence suggests that activating the SIRT6 pathway with a yeast-derived extract could simultaneously address UV damage, cellular aging, and uneven pigmentation in skin \u2014 though human evidence is still needed.",
+      "caveats": "animal or cell study, industry funding [S. Karger / proprietary ingredient \u2014 authors affiliated with ingredient development], small sample (N<100)",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Interesting ingredient angle but cell study only; industry-linked; no human data.",
+      "pitch_angles": [
+        {
+          "publication_type": "Allure / Byrdie",
+          "headline": "Could a Yeast Extract Be the Next Big Anti-Aging Skincare Ingredient? Early Lab Results Are Intriguing",
+          "hook": "A hydrolyzed yeast protein extract activated a key cellular longevity protein in human skin cells and slowed signs of aging \u2014 including UV damage and uneven pigment \u2014 in lab conditions.",
+          "pitch_angle": "SIRT6, sometimes called a 'longevity gene regulator,' is getting attention in skincare science, and this early-stage research suggests a yeast-derived extract could activate it across multiple skin cell types simultaneously \u2014 though the jump from cell studies to products is still a long one."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Dermatology",
+      "chunk": "2/2",
+      "status": "new"
+    },
+    {
+      "pmid": "42860835",
+      "headline": "A lab-engineered enzyme slashes drug-resistant staph bacteria 16 times more effectively than its natural counterpart",
+      "journal": "Biotechnology and Applied Biochemistry",
+      "pubdate": "2026 Oct 11",
+      "doi": "10.1002/bab.70212",
+      "groundbreaking": "First-in-class human study",
+      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
+      "summary": "Researchers engineered a chimeric protein called ASEnd by fusing two bacterial-phage-derived domains, then tested its ability to kill methicillin-resistant Staphylococcus aureus (MRSA) in lab assays. The engineered enzyme showed inhibition zones up to 19 mm and minimum inhibitory concentrations of 1.56 \u00b5g/mL, a 16-fold potency improvement over its parent enzyme LYZ2. ASEnd showed no cytotoxicity in human cell lines and selective activity against S. aureus strains, though it lost significant activity within two weeks of cold storage.",
+      "why_it_matters": "MRSA is a leading cause of serious skin and soft-tissue infections, and a non-antibiotic approach with this level of potency and selectivity could eventually offer new options for hard-to-treat skin infections.",
+      "caveats": "animal or cell study, small sample, short follow-up, single-center",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "MRSA has skin relevance but study is cell/lab only with major stability limitations.",
+      "pitch_angles": [
+        {
+          "publication_type": "Health.com / General health",
+          "headline": "Scientists Engineer a Staph-Killing Protein That Works 16 Times Better Than the Original",
+          "hook": "A newly designed enzyme can destroy drug-resistant staph bacteria at a fraction of the dose previously needed \u2014 without harming human cells.",
+          "pitch_angle": "MRSA causes tens of thousands of serious skin infections annually, and antibiotic resistance is narrowing treatment options. This early-stage lab finding suggests a phage-derived chimeric protein could one day offer an alternative route to treating stubborn staph skin infections, though significant stability and in-vivo testing hurdles remain."
+        }
+      ],
+      "run_date": "2026-10-15",
+      "category": "Biochemistry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -148,60 +370,6 @@
       "run_date": "2026-10-14",
       "category": "Dermatology",
       "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42870577",
-      "headline": "Microplastics Are Inside Our Bodies \u2014 and Scientists Are Only Just Learning How to Study the Damage",
-      "journal": "Journal of Materials Chemistry B",
-      "pubdate": "2026 Oct 14",
-      "doi": "10.1039/d6tb01482h",
-      "groundbreaking": "Major skincare or skin health implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers reviewed the current state of microplastic (MP) toxicology research, highlighting that existing 2D cell and animal models poorly replicate human physiology and often use unrealistically high MP doses. The review proposes organ-on-a-chip (OoC) platforms \u2014 3D microfluidic systems with living human cells \u2014 as a more accurate tool for studying how MPs accumulate in tissues, including at the organ level. Key finding: current models cannot reliably tell us how much harm realistic MP exposures actually cause, meaning the true health impact of MPs found in human tissues remains genuinely unknown.",
-      "why_it_matters": "Since microplastics have been detected in human skin and other tissues, understanding how they interact with skin and immune barriers could eventually reshape both ingredient safety standards and cosmetic packaging practices.",
-      "caveats": "animal or cell study, review article (no new primary data), translational gap between OoC models and clinical outcomes",
-      "fact_check_note": "",
-      "relevance_score": 4,
-      "relevance_score_reason": "Skin-adjacent MP concern; review only, no primary human skin data.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "Microplastics Are in Your Skin \u2014 Here's Why Scientists Still Can't Tell You How Worried to Be",
-          "hook": "Microplastics have been found in human tissues including skin, but a new review reveals that most of the research tools used to study their harm are too flawed to give us real answers yet.",
-          "pitch_angle": "Researchers argue that current lab and animal models dramatically overestimate MP doses and don't reflect how human skin and organs actually respond \u2014 and that a new generation of 'organ-on-a-chip' technology may finally close that gap. For readers already anxious about MPs in beauty products and packaging, this contextualizes why definitive guidance has been so slow to arrive."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Biochemistry",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42869312",
-      "headline": "A century of dermatology breakthroughs \u2014 from arsenic creams to precision biologics \u2014 recapped in one sweeping review",
-      "journal": "Clinics in Dermatology",
-      "pubdate": "2026 Oct 13",
-      "doi": "10.1016/j.clindermatol.2026.10.005",
-      "groundbreaking": "Major skincare or skin health implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Authors reviewed landmark therapeutic advances across infectious, inflammatory, autoimmune, vascular, and oncologic dermatology over the past century, tracing the field's shift from empiric and often toxic treatments toward targeted, mechanism-based therapies. Key milestones highlighted include penicillin for syphilis, isotretinoin for severe acne, biologics and JAK inhibitors for psoriasis and inflammatory diseases, beta-blockers for infantile hemangiomas, and immunotherapy for cutaneous malignancies. The review finds that progress arose from both systematic research and unexpected clinical observations, and argues that dermatology is now entering an era of genuine precision medicine.",
-      "why_it_matters": "Understanding how dermatology treatments evolved \u2014 from guesswork to targeted biologics \u2014 helps contextualize why today's prescription skincare and clinical therapies work so differently from those of even 30 years ago.",
-      "caveats": "observational design, narrative review (not systematic), expert opinion component",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Narrative review; strong context-setting but no new primary data or surprising empirical finding.",
-      "pitch_angles": [
-        {
-          "publication_type": "Vogue / Allure",
-          "headline": "From Arsenic to Biologics: How 100 Years of Science Transformed the Way We Treat Skin",
-          "hook": "A century ago, doctors were treating syphilis with mercury and severe acne with radiation \u2014 here's how dermatology became one of medicine's most precise fields.",
-          "pitch_angle": "A sweeping new review traces how treatments for acne, psoriasis, and skin cancer went from toxic guesswork to molecule-level targeting, including the accidental discovery that a blood pressure drug shrinks dangerous infant hemangiomas. It's a reminder that the biologics and prescription actives now reshaping skincare didn't appear overnight \u2014 they're the result of 100 years of unexpected discoveries."
-        }
-      ],
-      "run_date": "2026-10-14",
-      "category": "Dermatology",
-      "chunk": "2/2",
       "status": "new"
     },
     {
@@ -321,33 +489,6 @@
       ],
       "run_date": "2026-10-13",
       "category": "Dermatology",
-      "chunk": "1/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42860835",
-      "headline": "A lab-engineered enzyme kills drug-resistant staph 16 times more effectively than its predecessor \u2014 and leaves human cells unharmed",
-      "journal": "Biotechnology and applied biochemistry",
-      "pubdate": "2026 Oct 11",
-      "doi": "10.1002/bab.70212",
-      "groundbreaking": "First-in-class human study",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers engineered a chimeric enzyme called ASEnd by fusing two bacteriophage-derived protein domains, then tested it against MRSA and other staph strains in laboratory assays. ASEnd showed a 16-fold improvement in potency over its parent enzyme, with MIC and MBC values of 1.56 and 3.125 \u00b5g/mL, and produced no cytotoxicity in human kidney cells. The enzyme retained selective activity against Staphylococcus aureus \u2014 including MRSA \u2014 but lost significant activity after two weeks of refrigerated storage, highlighting a key stability challenge.",
-      "why_it_matters": "MRSA is a leading cause of difficult-to-treat skin and wound infections, and this early-stage finding suggests engineered bacteriophage enzymes may offer a targeted, resistance-resistant alternative to conventional antibiotics for skin-related staph infections.",
-      "caveats": "animal or cell study, small sample (N<100), single-center, short follow-up, no in vivo validation, stability concerns (significant activity loss by 14 days at 4\u00b0C)",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "MRSA skin infection relevance; cell-only study with major stability caveat.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "A New Lab-Made Enzyme May Be 16 Times Better at Killing Drug-Resistant Staph Than Current Options",
-          "hook": "MRSA skin infections are notoriously hard to treat \u2014 but a newly engineered enzyme destroyed the bacteria far more efficiently than its predecessor while leaving human cells untouched.",
-          "pitch_angle": "Researchers designed ASEnd, a chimeric protein built from bacteriophage components, and found it killed MRSA at very low concentrations in lab tests with no toxicity to human cells. If stability hurdles can be overcome in future research, this class of engineered enzymes could eventually expand treatment options for stubborn drug-resistant skin infections."
-        }
-      ],
-      "run_date": "2026-10-13",
-      "category": "Biochemistry",
       "chunk": "1/2",
       "status": "new"
     },
@@ -1905,33 +2046,6 @@
       ],
       "run_date": "2026-10-01",
       "category": "Dermatology",
-      "chunk": "2/2",
-      "status": "new"
-    },
-    {
-      "pmid": "42775574",
-      "headline": "A zinc-releasing hydrogel dressing may outsmart antibiotic-resistant bacteria in diabetic wounds \u2014 without burning tissue",
-      "journal": "Journal of Materials Chemistry B",
-      "pubdate": "2026 Sep 23",
-      "doi": "10.1039/d6tb00971a",
-      "groundbreaking": "Counterintuitive finding / Major skincare or skin health implication",
-      "media_coverage": "Not widely covered \u2713 (SERPAPI verified)",
-      "summary": "Researchers engineered a hydrogel wound dressing combining molybdenum disulfide and zinc oxide nanostructures within a PVA/dextran matrix, then tested it in a S. aureus-infected diabetic mouse model. The zinc ions pre-sensitized bacterial membranes, making them vulnerable to mild heat (~50\u00b0C) photothermal treatment that is safe for surrounding tissue. The hydrogel eliminated over 98% of bacteria and reduced the residual wound area to just 1.11% after 15 days, while promoting collagen deposition and new blood vessel formation.",
-      "why_it_matters": "This approach suggests it may be possible to treat infected diabetic wounds effectively without high-dose antibiotics or tissue-damaging heat, which could be relevant given rising antibiotic resistance.",
-      "caveats": "animal or cell study",
-      "fact_check_note": "",
-      "relevance_score": 5,
-      "relevance_score_reason": "Wound healing with collagen/skin repair relevance but animal study only.",
-      "pitch_angles": [
-        {
-          "publication_type": "Health.com / General health",
-          "headline": "Scientists Built a Smart Wound Dressing That Uses Zinc to Trick Drug-Resistant Bacteria",
-          "hook": "A new hydrogel dressing appears to make dangerous bacteria vulnerable to gentle heat \u2014 no antibiotics required.",
-          "pitch_angle": "In mouse studies, the zinc-releasing dressing sensitized bacteria so that mild photothermal treatment could safely kill them; the research is early-stage but points toward new wound-care strategies for diabetic patients whose skin infections are notoriously difficult to treat."
-        }
-      ],
-      "run_date": "2026-09-29",
-      "category": "Biochemistry",
       "chunk": "2/2",
       "status": "new"
     },
